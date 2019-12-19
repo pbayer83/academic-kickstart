@@ -76,8 +76,8 @@ user_groups:
 - Visitors
 ---
 
-I am Senior Lecturer in International Relations and Chancellor’s Fellow in Energy Policy at the [University of Strathclyde](https://www.strath.ac.uk/humanities/governmentpublicpolicy/). I am also a Fellow at the Initiative for Sustainable Energy Policy (ISEP), Johns Hopkins School of Advanced International Studies (SAIS) and Associated Researcher at the Centre for the Political Economy of Reforms at the University of Mannheim.
+I am Senior Lecturer in International Relations and Chancellor’s Fellow in Energy Policy at the [University of Strathclyde](https://www.strath.ac.uk/humanities/governmentpublicpolicy/). I am also a Fellow at the [Initiative for Sustainable Energy Policy (ISEP)](https://sais-isep.org/), Johns Hopkins School of Advanced International Studies (SAIS) and Associated Researcher at the Centre for the [Political Economy of Reforms](https://reforms.uni-mannheim.de/) at the University of Mannheim.
 
 My research focuses on central questions in international cooperation and the political economy of environmental politics and energy policy. Current projects include work on the political economy of carbon markets, multilateral environmental agreements and financial incentives, and climate politics in times of Brexit. 
 
-My work was published in the Journal of Politics, the Journal of Conflict Resolution, Energy Economics, and Science Advances. My book on the Escaping the Energy Poverty Trap was published with MIT Press in 2018. I have written for the Washington Post's Monkey Cage, VoxDev, or ISEP Policy Briefs, and my work has been covered by The Economist.
+My work was published in the Journal of Politics, the Journal of Conflict Resolution, Energy Economics, and Science Advances. My book on the [Escaping the Energy Poverty Trap](https://mitpress.mit.edu/books/escaping-energy-poverty-trap) was published with MIT Press in 2018. I have written for the Washington Post's Monkey Cage, VoxDev, or ISEP Policy Briefs, and my work has been covered by The Economist.
