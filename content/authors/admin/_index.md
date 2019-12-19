@@ -18,24 +18,24 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+# education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+# institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -59,7 +59,7 @@ social:
   link: https://orcid.org/0000-0003-1731-1270
 - icon: github
   icon_pack: fab
-  link: https://github.com/pbayer83
+  link: https://github.com/pbyr
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -76,7 +76,7 @@ user_groups:
 - Visitors
 ---
 
-I am Senior Lecturer in International Relations and Chancellor’s Fellow in Energy Policy at the University of Strathclyde. I am also a Fellow at the Initiative for Sustainable Energy Policy (ISEP), Johns Hopkins School of Advanced International Studies (SAIS) and Associated Researcher at the Centre for the Political Economy of Reforms at the University of Mannheim.
+I am Senior Lecturer in International Relations and Chancellor’s Fellow in Energy Policy at the [University of Strathclyde](https://www.strath.ac.uk/humanities/governmentpublicpolicy/). I am also a Fellow at the Initiative for Sustainable Energy Policy (ISEP), Johns Hopkins School of Advanced International Studies (SAIS) and Associated Researcher at the Centre for the Political Economy of Reforms at the University of Mannheim.
 
 My research focuses on central questions in international cooperation and the political economy of environmental politics and energy policy. Current projects include work on the political economy of carbon markets, multilateral environmental agreements and financial incentives, and climate politics in times of Brexit. 
 
