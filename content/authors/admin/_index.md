@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Lecturer in International Relations
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Strathclyde
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -44,13 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:patrick.bayer@strath.ac.uk  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/pol_economist
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/patbayer/
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
