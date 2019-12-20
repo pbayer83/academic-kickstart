@@ -2,7 +2,7 @@
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "publication"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
@@ -71,3 +71,6 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 {{% /alert %}}
 
 Hamburger, David, Joel Jaeger, Patrick Bayer, Ryan Kennedy, Joonseok Yang, and Johannes Urpelainen. 2019 “Shades of Darkness or Light? A Systematic Review of Geographic Bias in Impact Evaluations of Electricity Access.” Energy Research & Social Science 58: 101236. [Dataverse]
+
+
+
