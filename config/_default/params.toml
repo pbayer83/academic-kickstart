@@ -263,3 +263,10 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
+
+
+############################
+## Sets off social media on publication pages
+############################
+
+profile=false
