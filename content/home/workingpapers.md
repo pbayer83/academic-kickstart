@@ -65,9 +65,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
-
-Hamburger, David, Joel Jaeger, Patrick Bayer, Ryan Kennedy, Joonseok Yang, and Johannes Urpelainen. 2019 “Shades of Darkness or Light? A Systematic Review of Geographic Bias in Impact Evaluations of Electricity Access.” Energy Research & Social Science 58: 101236. [Dataverse]
