@@ -66,6 +66,3 @@ subtitle = ""
  css_class = ""
 +++
 
-test here
-1. yes
-2. no
