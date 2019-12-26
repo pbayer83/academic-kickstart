@@ -4,7 +4,7 @@ title = "The European Union Emissions Trading System reduced CO2 emissions despi
 featured=true
 
 # Date first published.
-date = "2019-08-27"
+date = "2019-10-16"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Patrick Bayer", "Micha&eumll Aklin"]
