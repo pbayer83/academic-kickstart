@@ -21,7 +21,7 @@ authors = ["Patrick Bayer", "Micha&eumll Aklin"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Energy Research & Social Science* 58: 101236"
+publication = "Working paper"
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
