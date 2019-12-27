@@ -1,5 +1,5 @@
 +++
-title = "The European Union Emissions Trading System reduced CO2 emissions despite low prices"
+title = "The European Union Emissions Trading System Reduced CO2 Emissions Despite Low Prices"
 
 featured=true
 
