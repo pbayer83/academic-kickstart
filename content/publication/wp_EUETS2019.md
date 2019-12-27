@@ -50,10 +50,11 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
+url_custom = [{name = "Dataverse", url = "http://example.org"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- url_custom = [{name = "Dataverse", url = "http://example.org"}]
+# url_custom = [{name = "Dataverse", url = "http://example.org"}]
 
 # Does the content use math formatting?
 math = true
