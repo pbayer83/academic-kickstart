@@ -25,7 +25,7 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "wp"
+    publication_type = ""
   
 [design]
   # Toggle between the various page layout types.
