@@ -29,11 +29,11 @@ tags:
 featured: false
 
 # links:
- - name: "Dataverse"
-   url: "http://patrickbayer.com"
+# - name: ""
+#   url: 
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
-url_dataset: ''
+url_dataverse: http://patrickbayer.com
 url_poster: ''
 url_project: ''
 url_slides: ''
