@@ -32,7 +32,7 @@ featured: false
 #- name: "My custom link"
 #  url: "http://example.org"
 
-url_custom=[{name="link", url="www.example.org"]}]
+url_custom = [{name = "Dataverse", url = "http://example.org"}]
   
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
