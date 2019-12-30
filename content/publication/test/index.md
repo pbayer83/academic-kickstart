@@ -29,8 +29,11 @@ tags:
 featured: false
 
 # links:
-- name: "My custom link"
-  url: "http://example.org"
+#- name: "My custom link"
+#  url: "http://example.org"
+
+url_custom=[name="link", url="www.example.org"]
+  
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
