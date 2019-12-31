@@ -21,7 +21,7 @@ authors = ["Patrick Bayer", "Micha&eumll Aklin"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Working paper"
+publication = "Working paper.  [[PDF](https://www.dropbox.com/s/ju41sl685unz7ez/BayerAklin2019_EUETS.pdf?dl=0)]"
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
