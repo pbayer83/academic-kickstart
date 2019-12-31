@@ -41,7 +41,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "https://www.sciencedirect.com/science/article/pii/S2214629619301665"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -50,11 +50,10 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Dataverse", url = "http://example.org"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Dataverse", url = "http://example.org"}]
+
 
 # Does the content use math formatting?
 math = true
