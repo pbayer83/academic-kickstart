@@ -50,7 +50,9 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-url_custom="www.example2.org"
+[[url_custom]]
+name="Url test"
+url="www.example2.org"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
