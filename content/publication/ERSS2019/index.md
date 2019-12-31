@@ -50,9 +50,7 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-[[url_custom]]
-name="Url test"
-url="www.example2.org"
+url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
