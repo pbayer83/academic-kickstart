@@ -20,7 +20,7 @@ authors = ["David Hamburger", "Joel Jaeger", "Patrick Bayer", "Ryan Kennedy", "J
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Energy Research & Social Science* 58: 101236. [[PDF] (https://www.sciencedirect.com/science/article/pii/S030142151930686X?via%3Dihub)] [[Dataverse] (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7K3RJC)]"
+publication = "*Energy Research & Social Science* 58: 101236. [[PDF] (https://www.sciencedirect.com/science/article/pii/S2214629619301665)] [Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7K3RJC)]" 
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
