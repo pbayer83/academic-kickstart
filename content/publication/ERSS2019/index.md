@@ -40,7 +40,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "https://www.sciencedirect.com/science/article/pii/S2214629619301665"
+# url_pdf = "https://www.sciencedirect.com/science/article/pii/S2214629619301665"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -50,7 +50,7 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-url_custom = [{name="Follow", url = "https://twitter.com/georgecushen"}]
+url_custom = [{name="pdf", url="http://example.org"},{name="Follow", url = "https://twitter.com/georgecushen"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
