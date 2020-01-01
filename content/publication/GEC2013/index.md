@@ -19,7 +19,7 @@ authors = ["Patrick Bayer", "Johannes Urpelainen", "Jeremy Wallace"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Global Environmental Change*. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0959378012001422)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DDFRRO)]"
+publication = "*Global Environmental Change* 23(2):512-521. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0959378012001422)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DDFRRO)]"
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
