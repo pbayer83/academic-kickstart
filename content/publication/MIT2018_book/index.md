@@ -1,10 +1,8 @@
 +++
 title = "Escaping the Energy Poverty Trap: When and How Governments Power the Lives of the Poor"
 
-featured=true
-
 # Date first published.
-date = "2018-11-1"
+date = "2018-11-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Micha&eumll Aklin", "Patrick Bayer", "S.P. Harish", "Johannes Urpelainen"]
@@ -32,7 +30,7 @@ abstract = "The first comprehensive political science account of energy poverty,
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
