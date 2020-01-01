@@ -30,7 +30,7 @@ abstract = "<p><b>The first comprehensive political science account of energy po
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
