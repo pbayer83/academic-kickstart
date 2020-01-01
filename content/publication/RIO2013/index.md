@@ -19,7 +19,7 @@ authors = ["Patrick Bayer", "Johannes Urpelainen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Review of International Organizations*. [[PDF](https://onlinelibrary.wiley.com/doi/abs/10.1111/ropr.12013)] [Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/C8IP7R)] "
+publication = "*Review of International Organizations*. [[PDF](https://onlinelibrary.wiley.com/doi/abs/10.1111/ropr.12013)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/C8IP7R)]"
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.

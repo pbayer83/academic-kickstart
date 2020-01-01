@@ -1,11 +1,11 @@
 +++
-title = "Funding Global Public Goods: The Dark Side of Multilateralism"
+title = "Who Uses the Clean Development Mechanism? An Empirical Analysis of Projects in Chinese Provinces"
 
 # Date first published.
-date = "2013-03-05"
+date = "2013-04-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Patrick Bayer", "Johannes Urpelainen"]
+authors = ["Patrick Bayer", "Johannes Urpelainen", "Jeremy Wallace"]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Patrick Bayer", "Johannes Urpelainen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Review of Policy Research*. [[PDF](https://onlinelibrary.wiley.com/doi/abs/10.1111/ropr.12013)]"
+publication = "*Global Environmental Change*. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0959378012001422)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DDFRRO)]"
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "The funding of global public goods, such as climate mitigation, presents a complex strategic problem. Potential recipients demand side payments for implementing projects that furnish global public goods, and donors can cooperate to provide the funding. We offer a game-theoretic analysis of this problem. In our model, a recipient demands project funding. Donors can form a multilateral program to jointly fund the project. If no program is formed, bilateral funding remains a possibility. We find that donors rely on multilateralism if their preferences are relatively symmetric and domestic political constraints on funding are lax. In this case, the recipient secures large rents from project implementation. Thus, even donors with strong interests in global public good provision have incentives to oppose institutional arrangements that promote multilateral funding. These incentives have played an important role in multilateral negotiations on climate finance, especially in Cancun (2010) and Durban (2011)."
+abstract = "China is by far the largest host of projects implemented under the Kyoto Protocol's Clean Development Mechanism (CDM). However, earlier studies shed little light on the determinants of the distribution of CDM projects across Chinese provinces. Given China's large size and political-economic diversity, this dearth of research is troubling. We provide an empirical analysis of 2097 CDM projects in 30 Chinese provinces, 2004–2009. We find that high electricity consumption, low per capita income, and a lack of foreign direct investment are all associated with CDM project implementation. The findings are particularly strong for electricity and foreign direct investment. These findings are consistent with the economic theory of CDM project implementation. Project developers focus on minimizing the cost of carbon abatement. Moreover, they suggest that the CDM can, despite its limitations, contribute to reducing economic inequality and uneven development in China."
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)

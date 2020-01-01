@@ -20,7 +20,7 @@ authors = ["Patrick Bayer", "Alexander Ovodenko"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Energy Research & Social Science* 56: 101213. [[PDF](https://www.sciencedirect.com/science/article/pii/S2214629618313057)] [[Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WAC3E9)]" 
+publication = "*Energy Research & Social Science* 56: 101213. [[PDF](https://www.sciencedirect.com/science/article/pii/S2214629618313057)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WAC3E9)]" 
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
