@@ -5,7 +5,7 @@ title = "Understanding Environmental Policy Preferences: New Evidence from Brazi
 date = "2013-10-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Micha&euml Aklin", "Patrick Bayer", "S.P. Harish", "Johannes Urpelainen"]
+authors = ["Micha&eumll Aklin", "Patrick Bayer", "S.P. Harish", "Johannes Urpelainen"]
 
 # Publication type.
 # Legend:

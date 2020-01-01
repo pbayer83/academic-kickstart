@@ -1,11 +1,11 @@
 +++
-title = "Who Uses the Clean Development Mechanism? An Empirical Analysis of Projects in Chinese Provinces"
+title = "Does It Pay to Play? How Bargaining Shapes Donor Participation in the Funding of Environmental Protection"
 
 # Date first published.
-date = "2013-04-15"
+date = "2013-08-11"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Patrick Bayer", "Johannes Urpelainen", "Jeremy Wallace"]
+authors = ["Patrick Bayer", "Johannes Urpelainen"]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Patrick Bayer", "Johannes Urpelainen", "Jeremy Wallace"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Global Environmental Change* 23(2):512-521. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0959378012001422)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DDFRRO)]"
+publication = "*Strategic Behavior and the Environment* 4(3):263-290. [[PDF](https://nowpublishers.com/article/Details/SBE-0046)] [[Proofs](https://www.dropbox.com/s/dnowevccda40mll/BayerUrpelainen2014_SBE_Appendix.pdf?dl=0)]"
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "China is by far the largest host of projects implemented under the Kyoto Protocol's Clean Development Mechanism (CDM). However, earlier studies shed little light on the determinants of the distribution of CDM projects across Chinese provinces. Given China's large size and political-economic diversity, this dearth of research is troubling. We provide an empirical analysis of 2097 CDM projects in 30 Chinese provinces, 2004–2009. We find that high electricity consumption, low per capita income, and a lack of foreign direct investment are all associated with CDM project implementation. The findings are particularly strong for electricity and foreign direct investment. These findings are consistent with the economic theory of CDM project implementation. Project developers focus on minimizing the cost of carbon abatement. Moreover, they suggest that the CDM can, despite its limitations, contribute to reducing economic inequality and uneven development in China."
+abstract = "Multilateral funding for global environmental protection, such as biodiversity conservation, requires donor participation. When are donors willing to participate? We examine a game-theoretic model of multilateral funding for environmental projects in developing countries. Donors must first decide whether to participate in a multilateral institution. They do so in anticipation of a bargaining outcome that depends on their participation decisions. The multilateral institution then bargains with a recipient over the distribution of gains from project implementation. We find that the donors' and the recipient's vulnerability to negative environmental externalities have diverging effects on their participation behavior. As donors' vulnerability to negative externalities increases, their bargaining power decreases and fewer donors participate. But as the recipient's vulnerability increases, more donors participate because their bargaining power grows. These findings can illuminate bargaining over multilateral climate finance and inform the design of international institutions."
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
