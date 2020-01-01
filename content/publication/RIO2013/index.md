@@ -19,11 +19,11 @@ authors = ["Patrick Bayer", "Johannes Urpelainen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Review of International Organizations*. [[PDF](https://onlinelibrary.wiley.com/doi/abs/10.1111/ropr.12013)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/C8IP7R)]"
+publication = "*Review of International Organizations* 8(1):81-109. [[PDF](https://onlinelibrary.wiley.com/doi/abs/10.1111/ropr.12013)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/C8IP7R)]"
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "New technology is fundamental to sustainable development. However, inventors from industrialized countries often refuse technology transfer because they worry about reverse-engineering. When can clean technology transfer succeed? We develop a formal model of the political economy of North–South technology transfer. According to the model, technology transfer is possible if (1) the technology in focus has limited global commercial potential or (2) the host developing country does not have the capacity to absorb new technologies for commercial use. If both conditions fail, inventors from industrialized countries worry about the adverse competitiveness effects of reverse-engineering, so technology transfer fails. Data analysis of technology transfer in 4,894 projects implemented under the Kyoto Protocol's Clean Development Mechanism during the 2004–2010 period provides evidence in support of the model."
+abstract = "New technology is fundamental to sustainable development. However, inventors from industrialized countries often refuse technology transfer because they worry about reverse-engineering. When can clean technology transfer succeed? We develop a formal model of the political economy of North–South technology transfer. According to the model, technology transfer is possible if (1) the technology in focus has limited global commercial potential or (2) the host developing country does not have the capacity to absorb new technologies for commercial use. If both conditions fail, inventors from industrialized countries worry about the adverse competitiveness effects of reverse-engineering, so technology transfer fails. Data analysis of technology transfer in 4894 projects implemented under the Kyoto Protocol's Clean Development Mechanism during the 2004–2010 period provides evidence in support of the model."
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)

@@ -1,11 +1,11 @@
 +++
-title = "Funding Global Public Goods: The Dark Side of Multilateralism"
+title = "Leveraging Private Capital for Climate Mitigation: Evidence from the Clean Development Mechanism"
 
 # Date first published.
-date = "2013-03-05"
+date = "2013-12-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Patrick Bayer", "Johannes Urpelainen"]
+authors = ["Patrick Bayer", "Christopher Marcoux", "Johannes Urpelainen"]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Patrick Bayer", "Johannes Urpelainen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Review of Policy Research* 30(2):160-189. [[PDF](https://onlinelibrary.wiley.com/doi/abs/10.1111/ropr.12013)]"
+publication = "*Ecological Economics* 96:14-24. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0921800913002942)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WCU8YJ)]"
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "The funding of global public goods, such as climate mitigation, presents a complex strategic problem. Potential recipients demand side payments for implementing projects that furnish global public goods, and donors can cooperate to provide the funding. We offer a game-theoretic analysis of this problem. In our model, a recipient demands project funding. Donors can form a multilateral program to jointly fund the project. If no program is formed, bilateral funding remains a possibility. We find that donors rely on multilateralism if their preferences are relatively symmetric and domestic political constraints on funding are lax. In this case, the recipient secures large rents from project implementation. Thus, even donors with strong interests in global public good provision have incentives to oppose institutional arrangements that promote multilateral funding. These incentives have played an important role in multilateral negotiations on climate finance, especially in Cancun (2010) and Durban (2011)."
+abstract = "To mitigate climate change, states must make significant investments into energy and other sectors. To solve this problem, scholars emphasize the importance of leveraging private capital. If states create institutional mechanisms that promote private investment, they can reduce the fiscal cost of carbon abatement. We examine the ability of different international institutional designs to leverage private capital in the context of the Kyoto Protocol's Clean Development Mechanism (CDM). Empirically, we analyze private capital investment in 3749 climate mitigation projects under the CDM, 2003–2011. Since the CDM allows both bilateral and unilateral implementation, we can compare the two modes of contracting within one context. Our model analyzes equilibrium private investment in climate mitigation. When the cost of mitigation is high, unilateral project implementation in one host country, without foreign collaboration, draws more investment than bilateral contracting, whereby foreign investors participate in the project."
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
