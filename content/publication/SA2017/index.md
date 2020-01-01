@@ -1,11 +1,11 @@
 +++
-title = "When International Organizations Bargain: Evidence from the Global Environment Facility"
+title = "Does Basic Energy Access Generate Socioeconomic Benefits? A Field Experiment with Off-grid Solar Power in India"
 
 # Date first published.
-date = "2015-09-15"
+date = "2017-05-17"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Patrick Bayer", "Christopher Marcoux", "Johannes Urpelainen"]
+authors = ["Micha&eumll Aklin", "Patrick Bayer", "S.P. Harish", "Johannes Urpelainen"]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Patrick Bayer", "Christopher Marcoux", "Johannes Urpelainen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Conflict Resolution* 59(6):1074-1100. [[PDF](https://journals.sagepub.com/doi/full/10.1177/0022002713520533)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JOZ3LX)]"
+publication = "*Science Advances* 3(5):e1602153. [[PDF](https://advances.sciencemag.org/content/3/5/e1602153.full)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QXKPHH)]"
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "Who gets what in bargaining between states and international organizations (IOs)? Although distributional conflict is unavoidable in international cooperation, previous research provides few empirical insights into the determinants of bargaining outcomes. We test a simple bargaining model of cooperation between states and IOs. We expect that nonegalitarian international organizations, such as the World Bank, secure more gains from bargaining with economically weak than with economically powerful states. For egalitarian international organizations, such as most United Nations (UN) agencies, the state’s economic power should be less important. We test these hypotheses against a novel data set on funding shares for 2255 projects implemented under the auspices of the Global Environment Facility, from1991 to 2011. The data allow us to directly measure bargaining outcomes. The results highlight the importance of accounting for the interactive effects of international organization and state characteristics."
+abstract = "This article assesses the socioeconomic effects of solar microgrids. The lack of access to electricity is a major obstacle to the socioeconomic development of more than a billion people. Off-grid solar technologies hold potential as an affordable and clean solution to satisfy basic electricity needs. We conducted a randomized field experiment in India to estimate the causal effect of off-grid solar power on electricity access and broader socioeconomic development of 1281 rural households. Within a year, electrification rates in the treatment group increased by 29 to 36 percentage points. Daily hours of access to electricity increased only by 0.99 to 1.42 hours, and the confidence intervals are wide. Kerosene expenditure on the black market decreased by 47 to 49 rupees per month. Despite these strong electrification and expenditure effects, we found no systematic evidence for changes in savings, spending, business creation, time spent working or studying, or other broader indicators of socioeconomic development."
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)

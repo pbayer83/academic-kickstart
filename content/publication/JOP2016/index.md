@@ -1,11 +1,11 @@
 +++
-title = "When International Organizations Bargain: Evidence from the Global Environment Facility"
+title = "It Is All about Political Incentives: Democracy and the Renewable Feed-in Tariff"
 
 # Date first published.
-date = "2015-09-15"
+date = "2016-04-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Patrick Bayer", "Christopher Marcoux", "Johannes Urpelainen"]
+authors = ["Patrick Bayer", "Johannes Urpelainen"]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Patrick Bayer", "Christopher Marcoux", "Johannes Urpelainen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Conflict Resolution* 59(6):1074-1100. [[PDF](https://journals.sagepub.com/doi/full/10.1177/0022002713520533)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JOZ3LX)]"
+publication = "*Journal of Politics* 78(2):603-619. [[PDF](https://www.journals.uchicago.edu/doi/abs/10.1086/684791?journalCode=jop)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q0XAPV)]"
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "Who gets what in bargaining between states and international organizations (IOs)? Although distributional conflict is unavoidable in international cooperation, previous research provides few empirical insights into the determinants of bargaining outcomes. We test a simple bargaining model of cooperation between states and IOs. We expect that nonegalitarian international organizations, such as the World Bank, secure more gains from bargaining with economically weak than with economically powerful states. For egalitarian international organizations, such as most United Nations (UN) agencies, the state’s economic power should be less important. We test these hypotheses against a novel data set on funding shares for 2255 projects implemented under the auspices of the Global Environment Facility, from1991 to 2011. The data allow us to directly measure bargaining outcomes. The results highlight the importance of accounting for the interactive effects of international organization and state characteristics."
+abstract = "Demand for renewable energy is booming. Scholars often attribute this success to feed-in tariffs (FITs), which mandate that energy utilities pay a premium to renewable electricity producers and guarantee grid access for them. Why have so many countries, including least-developed ones, adopted these policies? We hypothesize that democratic governments have political incentives to adopt the FIT because it improves environmental quality, promotes rural development, and distributes electricity generation profits from large utilities to independent producers. We analyze global data on FIT adoption, 1990–2012, and we find that the association between democratic regime type and FIT adoption overwhelms all other covariates. The effect is specific to the FIT and does not exist for renewable portfolio standards or public competitive bidding for renewable energy contracts. Consistent with theories of distributive politics, among democracies, institutional malapportionment in favor of rural political constituencies favors FIT adoption."
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
