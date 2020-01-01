@@ -1,11 +1,11 @@
 +++
-title = "Does It Pay to Play? How Bargaining Shapes Donor Participation in the Funding of Environmental Protection"
+title = "Information and Energy Policy Preferences: A Survey Experiment on Public Opinion about Electricity Pricing Reform in Rural India"
 
 # Date first published.
-date = "2014-08-11"
+date = "2014-11-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Patrick Bayer", "Johannes Urpelainen"]
+authors = ["Micha&eumll Aklin", "Patrick Bayer", "S.P. Harish", "Johannes Urpelainen"]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Patrick Bayer", "Johannes Urpelainen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Strategic Behavior and the Environment* 4(3):263-290. [[PDF](https://nowpublishers.com/article/Details/SBE-0046)] [[Proofs](https://www.dropbox.com/s/dnowevccda40mll/BayerUrpelainen2014_SBE_Appendix.pdf?dl=0)]"
+publication = "*Economics of Governance* 15(4):305-327. [[PDF](https://link.springer.com/article/10.1007/s10101-014-0146-5)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OMSFUO)]"
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "Multilateral funding for global environmental protection, such as biodiversity conservation, requires donor participation. When are donors willing to participate? We examine a game-theoretic model of multilateral funding for environmental projects in developing countries. Donors must first decide whether to participate in a multilateral institution. They do so in anticipation of a bargaining outcome that depends on their participation decisions. The multilateral institution then bargains with a recipient over the distribution of gains from project implementation. We find that the donors' and the recipient's vulnerability to negative environmental externalities have diverging effects on their participation behavior. As donors' vulnerability to negative externalities increases, their bargaining power decreases and fewer donors participate. But as the recipient's vulnerability increases, more donors participate because their bargaining power grows. These findings can illuminate bargaining over multilateral climate finance and inform the design of international institutions."
+abstract = "A common argument for the lack of economic reform in developing countries is popular opposition. If current economic policies are dysfunctional, could information about alternatives sway the voters? We examine if a simple argument emphasizing the need to increase electricity prices for improved supply can change public opinion in the case of India’s power sector reforms. The evidence comes from a survey experiment in rural Uttar Pradesh, which is both India’s largest state and has one of the lowest levels of household electrification. As expected, people respond to information about the relationship between electricity pricing, capacity investment, and reliability of supply by increasing their support for higher prices. However, no corresponding increase is observed for privatization of electricity generation. For external validity, we analyze an existing national survey on electricity privatization conducted in 2004/2005, finding patterns that support our argument."
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
