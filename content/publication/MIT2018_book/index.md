@@ -38,7 +38,6 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 projects = [""]
 
-tag="book"
 
 # Links (optional).
 url_pdf = ""
