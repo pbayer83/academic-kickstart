@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Method type matters for electricity access research, we find in a paper forthcoming with Energy Policy"
+title = "Two new papers with Energy Research & Social Science"
 subtitle = ""
 
 [content]
@@ -67,4 +67,4 @@ subtitle = ""
 
 +++
 
-In our new paper forthcoming in *Energy Policy* we find that the type of research method matters for how positively impact evaluations assess socioeconomic benefits from electricity access. Specifically, ["The Need for Impact Evaluation in Electricity Access Research"](https://www.sciencedirect.com/science/article/pii/S030142151930686X) shows that experimental studies produce fewer positive impacts than observational studies, which raises questions about the importance of research methodology in impact assessements of electricity access.
+I have published two new papers, forthcoming in *Energy Research and Social Science*. One is joint work with Alexander Ovodenko on public support for fracking in the United States, titled [“Many Voices in the Room: A National Survey Experiment on How Framing Changes Views toward Fracking in the United States”](https://www.sciencedirect.com/science/article/pii/S2214629618313057), and the other one is research on the geographic bias in energy access impact evaluations, titled [“Shades of Darkness or Light? A Systematic Review of Geographic Bias in Impact Evaluations of Electricity Access”](https://www.sciencedirect.com/science/article/pii/S2214629619301665), which is together with David Hamburger, Joel Jaeger, Ryan Kennedy, and Joonseok Yang, and Johannes Urpelainen.
