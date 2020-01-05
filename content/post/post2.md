@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Two new papers with *Energy Research & Social Science*"
 subtitle = ""
@@ -36,7 +36,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -64,6 +64,7 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
 +++
 
 I have published two new papers, forthcoming in *Energy Research and Social Science*. One is joint work with Alexander Ovodenko on public support for fracking in the United States, titled [“Many Voices in the Room: A National Survey Experiment on How Framing Changes Views toward Fracking in the United States”](https://www.sciencedirect.com/science/article/pii/S2214629618313057), and the other one is research on the geographic bias in energy access impact evaluations, titled [“Shades of Darkness or Light? A Systematic Review of Geographic Bias in Impact Evaluations of Electricity Access”](https://www.sciencedirect.com/science/article/pii/S2214629619301665), which is together with David Hamburger, Joel Jaeger, Ryan Kennedy, and Joonseok Yang, and Johannes Urpelainen.
