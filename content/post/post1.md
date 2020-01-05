@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Method type matters for electricity access research, we find in a paper forthcoming with Energy Policy"
+title = "Method type matters for electricity access research,"
 subtitle = ""
 
 [content]
