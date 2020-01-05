@@ -36,7 +36,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -67,4 +67,4 @@ subtitle = ""
 
 +++
 
-In our new paper, titled ["The Need for Impact Evaluation in Electricity Access Research"](https://www.sciencedirect.com/science/article/pii/S030142151930686X) forthcoming in *Energy Policy*, we find that the type of research method matters for how positively impact evaluations assess socioeconomic benefits from electricity access. Specifically, experimental studies produce fewer positive impacts than observational studies, which raises questions about the importance of research methodology in impact assessements of electricity access.
+In our new paper, titled method matters for how positively impact evaluations assess socioeconomic benefits from electricity access. Specifically, experimental studies produce fewer positive impacts than observational studies, which raises questions about the importance of research methodology in impact assessements of electricity access.["The Need for Impact Evaluation in Electricity Access Research"](https://www.sciencedirect.com/science/article/pii/S030142151930686X) forthcoming in *Energy Policy*, we find that the type of research method matters for how positively impact evaluations assess socioeconomic benefits from electricity access. Specifically, experimental studies produce fewer positive impacts than observational studies, which raises questions about the importance of research methodology in impact assessements of electricity access.
