@@ -2,7 +2,7 @@
 title = "Explaining Differences in Sub-national Patterns of Clean Technology Transfer to China and India"
 
 # Date first published.
-date = "2016-04-15"
+date = "2016-04-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Patrick Bayer", "Johannes Urpelainen", "Alice Xu"]
