@@ -66,4 +66,6 @@ subtitle = ""
  css_class = ""
 
 +++
-Great news. New paper in Energy Policy.
+shows that experimental studies produce fewer positive impacts than observational studies, which raises questions about the importance of research methodology in impact assessements of electricity access.
+
+In a paper forthcoming in *Energy Policy* we find that the type of research method matters for impact evaluations of socio-economic benefits from electricity access. Specifically, ["The Need for Impact Evaluation in Electricity Access Research"](https://www.sciencedirect.com/science/article/pii/S030142151930686X) shows that experimental studies produce fewer positive impacts than observational studies, which raises questions about the importance of research methodology in impact assessements of electricity access.
