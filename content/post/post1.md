@@ -5,9 +5,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
-title = "Great news: A new paper published with *Energy Research & Social Science*"
+title = "Method type matters for electricity access research, we find in a paper forthcoming with *Energy Policy*"
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 2
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -66,4 +66,4 @@ subtitle = ""
  css_class = ""
 +++
 
-New blog post here
+In our new paper, titled ["The Need for Impact Evaluation in Electricity Access Research"] (https://www.sciencedirect.com/science/article/pii/S030142151930686X) forthcoming in *Energy Policy*, we find that the type of research method matters for how positively impact evaluations assess socioeconomic benefits from electricity access. Specifically, experimental studies produce fewer positive impacts than observational studies, which raises questions about the importance of research methodology in impact assessements of electricity access.

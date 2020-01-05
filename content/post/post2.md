@@ -5,10 +5,10 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
-title = "Great news: A new super doupper published with *Energy Research & Social Science*"
-subtitle = "by Patrick Bayer"
+title = "Two new papers with *Energy Research & Social Science*"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -66,4 +66,4 @@ subtitle = "by Patrick Bayer"
  css_class = ""
 +++
 
-Check what I have to say
+I have published two new papers, forthcoming in *Energy Research and Social Science*. One is joint work with Alexander Ovodenko on public support for fracking in the United States, titled [“Many Voices in the Room: A National Survey Experiment on How Framing Changes Views toward Fracking in the United States”](https://www.sciencedirect.com/science/article/pii/S2214629618313057), and the other one is research on the geographic bias in energy access impact evaluations, titled [“Shades of Darkness or Light? A Systematic Review of Geographic Bias in Impact Evaluations of Electricity Access”](https://www.sciencedirect.com/science/article/pii/S2214629619301665), which is together with David Hamburger, Joel Jaeger, Ryan Kennedy, and Joonseok Yang, and Johannes Urpelainen.
