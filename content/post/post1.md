@@ -66,5 +66,4 @@ subtitle = ""
  css_class = ""
 
 +++
-
 We have published a new paper, titled ["The Need for Impact Evaluation in Electricity Access Research"](https://www.sciencedirect.com/science/article/pii/S030142151930686X), which is forthcoming in *Energy Policy*. We find that research method matters for impact assessments in electricity access research. Specifically, we show that experimental studies produce fewer positive impacts than observational studies, which raises questions about the importance of research methodology in impact assessements of electricity access.
