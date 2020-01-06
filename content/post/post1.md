@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Method type matters for electricity access research, we find in a paper forthcoming with Energy Policy"
+title = "Method type matters for electricity access research, we find in a forthcoming paper in Energy Policy"
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 3
+  count = 2
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -67,4 +67,4 @@ subtitle = ""
 
 +++
 
-We have published a new paper forthcoming in *Energy Policy*. We find that research method matters for impact assessments in electricity access research. In ["The Need for Impact Evaluation in Electricity Access Research"](https://www.sciencedirect.com/science/article/pii/S030142151930686X) we show that experimental studies produce fewer positive impacts than observational studies, which raises questions about the importance of research methodology in impact assessements of electricity access.
+We have published a new paper, titled ["The Need for Impact Evaluation in Electricity Access Research"](https://www.sciencedirect.com/science/article/pii/S030142151930686X), which is forthcoming in *Energy Policy*. We find that research method matters for impact assessments in electricity access research. Specifically, we show that experimental studies produce fewer positive impacts than observational studies, which raises questions about the importance of research methodology in impact assessements of electricity access.

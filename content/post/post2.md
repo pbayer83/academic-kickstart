@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Two new papers with Energy Research & Social Science"
+title = "Two new papers in Energy Research & Social Science"
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 3
+  count = 2
   
   # Choose how many pages you would like to offset by
   offset = 0
