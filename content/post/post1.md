@@ -67,7 +67,9 @@ subtitle = ""
 
 +++
 
-Our new paper forthcoming in *Energy Policy* finds that research method matters for electricity access research.
+I have published two new papers, forthcoming in *Energy Research and Social Science*. One is joint work with Alexander Ovodenko on public support for fracking in the United States, titled [“Many Voices in the Room: A National Survey Experiment on How Framing Changes Views toward Fracking in the United States”](https://www.sciencedirect.com/science/article/pii/S2214629618313057), and the other one is research on the geographic bias in energy access impact evaluations, titled [“Shades of Darkness or Light? A Systematic Review of Geographic Bias in Impact Evaluations of Electricity Access”](https://www.sciencedirect.com/science/article/pii/S2214629619301665), which is together with David Hamburger, Joel Jaeger, Ryan Kennedy, and Joonseok Yang, and Johannes Urpelainen.
+
+#Our new paper forthcoming in *Energy Policy* finds that research method matters for electricity access research.
 
 #for impact evaluations in electricity access research. In ["The Need for Impact Evaluation in Electricity Access Research"](https://www.sciencedirect.com/science/article/pii/S030142151930686X) we show that experimental studies produce fewer positive impacts than observational studies, which raises questions about the importance of research methodology in impact assessements of electricity access.
 
