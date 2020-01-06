@@ -67,7 +67,7 @@ subtitle = ""
 
 +++
 
-Our new paper forthcoming in *Energy Policy* finds that research method matters 
+Our new paper forthcoming in *Energy Policy* finds that research method matters for electricity access research.
 
 #for impact evaluations in electricity access research. In ["The Need for Impact Evaluation in Electricity Access Research"](https://www.sciencedirect.com/science/article/pii/S030142151930686X) we show that experimental studies produce fewer positive impacts than observational studies, which raises questions about the importance of research methodology in impact assessements of electricity access.
 
