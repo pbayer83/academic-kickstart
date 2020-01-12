@@ -27,7 +27,7 @@
 
 [[main]]
   name = "Teaching"
-  url = "#slider"
+  url = "#talks"
   weight = 50
 
 [[main]]
