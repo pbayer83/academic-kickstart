@@ -36,11 +36,11 @@ subtitle = ""
   #image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  # text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  #padding = ["20px", "0", "20px", "0"]
+  # padding = ["20px", "0", "20px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -49,7 +49,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
 International Institutions and Regimes (spring 2020, graduate) [[Syllabus](https://www.dropbox.com/s/q8dblcjj5q6qqjc/L2912_International_Institutions_and_Regimes.pdf?dl=0)]
+
 Global Energy Politics and Policy (spring 2021, graduate)
 
 #Welcome to the **personal demo** of Academic. Other demos available include:
@@ -61,7 +63,7 @@ Global Energy Politics and Policy (spring 2021, graduate)
 #**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
 
 #{{% alert note %}}
-#This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
+# This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
 
 #Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-#{{% /alert %}}
+# {{% /alert %}}
