@@ -51,15 +51,9 @@ subtitle = ""
 +++
 
 Dr Patrick Bayer
-
 University of Strathclyde
-
 School of Government & Public Policy
-
 McCance Building, Room #415
-
 16 Richmond Street
-
 Glasgow, G1 1QX
-
 Scotland, UK
