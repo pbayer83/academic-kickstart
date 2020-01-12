@@ -53,17 +53,3 @@ subtitle = ""
 International Institutions and Regimes (spring 2020, graduate) [[Syllabus](https://www.dropbox.com/s/q8dblcjj5q6qqjc/L2912_International_Institutions_and_Regimes.pdf?dl=0)]
 
 Global Energy Politics and Policy (spring 2021, graduate)
-
-#Welcome to the **personal demo** of Academic. Other demos available include:
-
-#- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
-
-#**Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
-
-#**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
-
-#{{% alert note %}}
-# This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-#Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-# {{% /alert %}}
