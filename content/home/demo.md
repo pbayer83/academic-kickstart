@@ -29,18 +29,18 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  #image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
+  #image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  #image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  #image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  #image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
   text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  #padding = ["20px", "0", "20px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -49,17 +49,19 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+International Institutions and Regimes (spring 2020, graduate) [[Syllabus](https://www.dropbox.com/s/q8dblcjj5q6qqjc/L2912_International_Institutions_and_Regimes.pdf?dl=0)]
+Global Energy Politics and Policy (spring 2021, graduate)
 
-Welcome to the **personal demo** of Academic. Other demos available include:
+#Welcome to the **personal demo** of Academic. Other demos available include:
 
-- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
+#- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
 
-**Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
+#**Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
 
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
+#**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
 
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
+#{{% alert note %}}
+#This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
 
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /alert %}}
+#Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
+#{{% /alert %}}
