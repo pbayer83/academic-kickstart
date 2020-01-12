@@ -50,6 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-International Institutions and Regimes (spring 2020, graduate) [[Syllabus](https://www.dropbox.com/s/q8dblcjj5q6qqjc/L2912_International_Institutions_and_Regimes.pdf?dl=0)]
+- International Institutions and Regimes (spring 2020, graduate) [[Syllabus](https://www.dropbox.com/s/q8dblcjj5q6qqjc/L2912_International_Institutions_and_Regimes.pdf?dl=0)]
 
-Global Energy Politics and Policy (spring 2021, graduate)
+- Global Energy Politics and Policy (spring 2021, graduate)
