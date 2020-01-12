@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Dr Patrick Bayer
+Dr Patrick Bayer <br>
 University of Strathclyde
 School of Government & Public Policy
 McCance Building, Room #415
