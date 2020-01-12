@@ -27,7 +27,7 @@
 
 [[main]]
   name = "Teaching"
-  url = "#talks"
+  url = "#demo"
   weight = 50
 
 [[main]]
