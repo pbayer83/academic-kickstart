@@ -10,13 +10,13 @@ primary = "#002b5c"
 # Menu
 menu_primary = "#fff"
 
-menu_text = "#a7a9ac"
-#menu_text = "#34495e"
-menu_text_active = "#2962ff"
+#menu_text = "#a7a9ac"
+menu_text = "#34495e"
+menu_text_active = "#a7a9ac"
 menu_title = "#2b2b2b"
 
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
-#home_section_even = "rgb(247, 247, 247)"
-home_section_even = "rgb(167, 169, 172)"
+home_section_even = "rgb(247, 247, 247)"
+#home_section_even = "rgb(167, 169, 172)"
