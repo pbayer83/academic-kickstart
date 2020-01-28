@@ -17,7 +17,7 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
     name = "CV"
-    url = "https://www.dropbox.com/s/5l8ose2rqscelkq/CV_BAYER_current.pdf?dl=0"
+    url = "https://www.dropbox.com/s/s3at92456nw9klr/CV.pdf?dl=0"
     weight = 30
 
 [[main]]
