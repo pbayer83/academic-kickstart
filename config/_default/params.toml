@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "forest"
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -20,10 +20,6 @@ day_night = false
 #   Browse user installed font sets in `data/fonts/`
 font = "Minimal"
 
-
-# Color theme.
-#   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-color_theme = "forest"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
