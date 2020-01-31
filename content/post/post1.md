@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Two new papers in Energy Research & Social Science"
+title = ""
 subtitle = ""
 
 [content]
@@ -67,4 +67,4 @@ subtitle = ""
 
 +++
 
-I have published two new papers, forthcoming in *Energy Research and Social Science*. One is joint work with Alexander Ovodenko on public support for fracking in the United States, titled [“Many Voices in the Room: A National Survey Experiment on How Framing Changes Views toward Fracking in the United States”](https://www.sciencedirect.com/science/article/pii/S2214629618313057), and the other one is research on the geographic bias in energy access impact evaluations, titled [“Shades of Darkness or Light? A Systematic Review of Geographic Bias in Impact Evaluations of Electricity Access”](https://www.sciencedirect.com/science/article/pii/S2214629619301665), which is together with David Hamburger, Joel Jaeger, Ryan Kennedy, and Joonseok Yang, and Johannes Urpelainen.
+I received Research Incentive Grant funding from the Carnegie Trust for my project on "The Sectoral Politics of Climate Policy: Domestic Conflict and UK Public Support for Ambitious Climate Action" in the amount of £14,125. Together with Federica Genovese (Essex), we will study how the consequences of ambitious climate action for different sectors in the UK and Scottish economies shape indiviudal support for climate policy.
