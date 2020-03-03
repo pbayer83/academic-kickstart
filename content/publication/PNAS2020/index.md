@@ -1,7 +1,7 @@
 +++
 title = "The European Union Emissions Trading System Reduced CO2 Emissions Despite Low Prices"
 
-featured=true
+featured=false
 
 # Date first published.
 date = "2020-03-02"
