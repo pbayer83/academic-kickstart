@@ -10,7 +10,6 @@ weight = 20  # Order that this section will appear.
 title = "ISEP webinar on 5 March 2020, 10am EST on electricity access research"
 subtitle = ""
 
-
 date= "2020-03-03"
 
 [content]
