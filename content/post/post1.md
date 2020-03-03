@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Funding awarded by the Carnegie Trust to study sectoral politics and climate policy in UK and Scotland"
+title = "Research method matters in electricity access research, we find in a new study in Energy Policy"
 subtitle = ""
 
 [content]
@@ -21,7 +21,7 @@ subtitle = ""
   offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+  order = "asc"
 
   # Filter posts by a taxonomy term.
   [content.filters]
@@ -67,4 +67,4 @@ subtitle = ""
 
 +++
 
-I received Research Incentive Grant funding from the Carnegie Trust for my project on "The Sectoral Politics of Climate Policy: Domestic Conflict and UK Public Support for Ambitious Climate Action" in the amount of £14,125. Together with Federica Genovese (Essex), we will study how the consequences of ambitious climate action for different sectors in the UK and Scottish economies shape indiviudal support for climate policy.
+We have published a new paper, titled ["The Need for Impact Evaluation in Electricity Access Research"](https://www.sciencedirect.com/science/article/pii/S030142151930686X), which is forthcoming in *Energy Policy*. We find that research method matters for impact assessments in electricity access research. Specifically, we show that experimental studies produce fewer positive impacts than observational studies, which raises questions about the importance of research methodology in impact assessements of electricity access.

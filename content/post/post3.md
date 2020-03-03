@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Funding awarded by the Carnegie Trust to study sectoral politics and climate policy in UK and Scotland"
+title = "ISEP webinar on 5 March 2020, 10am EST on electricity access research"
 subtitle = ""
 
 [content]
@@ -67,4 +67,4 @@ subtitle = ""
 
 +++
 
-I received Research Incentive Grant funding from the Carnegie Trust for my project on "The Sectoral Politics of Climate Policy: Domestic Conflict and UK Public Support for Ambitious Climate Action" in the amount of £14,125. Together with Federica Genovese (Essex), we will study how the consequences of ambitious climate action for different sectors in the UK and Scottish economies shape indiviudal support for climate policy.
+I will be giving a webinar on the results of our current work on electricity access research on 5 March, 10am EST. This is part of ISEP's webinar series at Johns Hopkins School of Advanced International Studies (SAIS). Make sure to tune in. More information and a registration link is available [here](https://sais-isep.org/event/webinar-why-the-where-and-how-matters-for-impact-evaluations-in-electricity-access-research-evidence-from-a-systematic-review).
