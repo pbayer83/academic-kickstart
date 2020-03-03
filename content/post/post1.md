@@ -10,6 +10,8 @@ weight = 20  # Order that this section will appear.
 title = "Research method matters in electricity access research, we find in a new study in Energy Policy"
 subtitle = ""
 
+date=2019/11/28
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post"
@@ -21,7 +23,7 @@ subtitle = ""
   offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "asc"
+  order = "desc"
 
   # Filter posts by a taxonomy term.
   [content.filters]

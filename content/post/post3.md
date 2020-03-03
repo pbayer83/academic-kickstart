@@ -10,6 +10,9 @@ weight = 20  # Order that this section will appear.
 title = "ISEP webinar on 5 March 2020, 10am EST on electricity access research"
 subtitle = ""
 
+
+date=2020/3/3
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post"

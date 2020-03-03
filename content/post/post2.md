@@ -10,6 +10,9 @@ weight = 20  # Order that this section will appear.
 title = "Funding awarded by the Carnegie Trust to study sectoral politics and climate policy in UK and Scotland"
 subtitle = ""
 
+
+date=2020/27/1
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post"
