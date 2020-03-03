@@ -1,8 +1,6 @@
 +++
 title = "The European Union Emissions Trading System Reduced CO2 Emissions Despite Low Prices"
 
-featured=false
-
 # Date first published.
 date = "2020-03-02"
 
@@ -32,7 +30,7 @@ abstract = "International carbon markets are an appealing and increasingly popul
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
