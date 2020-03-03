@@ -2,7 +2,7 @@
 title = "The Need for Impact Evaluation in Electricity Access Research"
 
 # Date first published.
-date = "2019-11-28"
+date = "2020-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Patrick Bayer", "Ryan Kennedy", "Joonseok Yang", "Johannes Urpelainen"]
