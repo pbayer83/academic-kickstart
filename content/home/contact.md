@@ -57,5 +57,5 @@ McCance Building, Room #415 <br>
 16 Richmond Street <br>
 Glasgow, G1 1QX <br>
 Scotland, UK <br>
-E: <a href="mailto:patrick.bayer@strath.ac.uk">Email Us</a>
-P: +44(0)141/548-2114
+Email: <a href="mailto:patrick.bayer@strath.ac.uk">patrick.bayer@strath.ac.uk</a> <br>
+Office: +44(0)141/548-2114
