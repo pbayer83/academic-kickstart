@@ -19,7 +19,7 @@ authors = ["Patrick Bayer", "Micha&eumll Aklin"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Forthcoming in *PNAS*. [[PDF](https://www.pnas.org/content/early/2020/04/01/1918128117)] [[Data and code]( https://doi.org/10.7910/DVN/R4LJIT)]"
+publication = "*PNAS* 117(16): 8804-8812. [[PDF](https://www.pnas.org/content/117/16/8804)] [[Data and code](https://doi.org/10.7910/DVN/R4LJIT)]"
 
 # publication_short = "In *ICA*"
 
