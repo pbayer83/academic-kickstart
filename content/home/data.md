@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "Data"
+title = "Contact"
 subtitle = ""
 
 [design]
@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
- 
+
 **European Union Sectoral Emissions Data (EUSED)**
  
 EUSED provides CO2 emissions for 33 countries (EU ETS member countries plus Switzerland and Turkey), disaggregated into 7 sectors which are matched between UNFCCC sectors (CRF) and EU ETS activities, 1990-2016. The data is available from [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/eused) or can be downloaded [here](https://www.dropbox.com/s/2luxhoyt9u4r8q4/EUSED.zip?dl=0). Please read the [codebook](https://www.dropbox.com/s/y090l11fdq7zgq1/EUSED_codebook.pdf?dl=0) before using the data.
