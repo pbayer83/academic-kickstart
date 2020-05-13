@@ -7,10 +7,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "ISEP webinar on 5 March 2020, 10am EST on electricity access research"
+title = "Paper on EU ETS effectiveness published in PNAS"
 subtitle = ""
 
-date= "2020-03-03"
+date= "2020-04-13"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -69,4 +69,4 @@ date= "2020-03-03"
 
 +++
 
-I will be giving a webinar on the results of our current work on electricity access research on 5 March, 10am EST. This is part of ISEP's webinar series at Johns Hopkins School of Advanced International Studies (SAIS). Make sure to tune in. More information and a registration link is available [here](https://sais-isep.org/event/webinar-why-the-where-and-how-matters-for-impact-evaluations-in-electricity-access-research-evidence-from-a-systematic-review).
+My [paper](https://www.pnas.org/content/early/2020/04/01/1918128117) together with Michaël Aklin (Pittsburgh) on the effectiveness of EU carbon markets was published in the Proceedings of the National Academy of the Sciences in the United States (PNAS). We find that despite low prices carbon markets in Europe helped reduce carbon emissions by 1.2bn tons from 2008-2016, or about 3.8% of total EU-wide emissions. While this is positive news, we also caution that these reductions likely only happened because market participants perceived European carbon regulation are credible. Political will is hence key for successful regulation in the EU and elsewhere.
