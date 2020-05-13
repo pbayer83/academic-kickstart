@@ -82,4 +82,4 @@ My research focuses on central questions in international cooperation and the po
 
 My work was published, among others, in the *Journal of Politics*, the *Journal of Conflict Resolution*, *Energy Economics*, *PNAS*, and *Science Advances*. My book on [Escaping the Energy Poverty Trap](https://mitpress.mit.edu/books/escaping-energy-poverty-trap) was published with MIT Press in 2018 and offers the first comprehensive political science account of energy poverty. I have written for *The Washington Post*'s Monkey Cage, VoxDev, and ISEP. My work has been covered by *The Economist*.
 
-My full contact details can be found in my [CV here](https://www.dropbox.com/s/6npjw6ccyv34ymn/CV_BAYER_current.pdf?dl=0).
+My contact details can be found in my [CV here](https://www.dropbox.com/s/6npjw6ccyv34ymn/CV_BAYER_current.pdf?dl=0).
