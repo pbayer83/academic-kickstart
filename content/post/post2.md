@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 # title = "Funding awarded by the Carnegie Trust to study sectoral politics and climate policy in UK and Scotland"
-title = "Funding awarded by the Carnegie Trust to study sectoral politics and climate policy in UK and Scotland"
+title = "Funding awarded by the Carnegie Trust"
 
 subtitle = ""
 
