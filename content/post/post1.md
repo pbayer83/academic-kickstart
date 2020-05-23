@@ -20,7 +20,7 @@ date= "2019-11-28"
   count = 2
   
   # Choose how many pages you would like to offset by
-  offset = 0
+  offset = 1
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
