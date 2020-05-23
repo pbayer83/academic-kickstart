@@ -17,7 +17,7 @@ date= "2020-04-13"
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 3
+  count = 2
   
   # Choose how many pages you would like to offset by
   offset = 0
