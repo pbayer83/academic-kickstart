@@ -1,5 +1,5 @@
 +++
-title = "Beliefs in Climate Action under Weak Climate Institutions: The Role of Sectoral Divides, Home Bias and International Embeddedness"
+title = "Beliefs about Climate Action Consequences under Weak Global Institutions: Sectors, Home Bias, and International Embeddedness"
 
 featured=true
 
@@ -21,11 +21,11 @@ authors = ["Patrick Bayer", "Federica Genovese"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Working paper.  [[PDF](https://www.dropbox.com/s/i44dnr7d9i72xp9/BayerGenovese2019_ClimateSector.pdf?dl=0)]"
+publication = "Working paper.  [[PDF](https://www.dropbox.com/s/2zlakotoa7iap85/BayerGenovese_FINAL.pdf?dl=0)]"
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "With the negotiation of the Paris Agreement on Climate Change in 2015, international climate governance has moved away from a top-down to a bottom-up approach. In this weakly institutionalized policy setup, national governments set their climate action targets voluntarily, and the hope is that these targets become more stringent over time. Implementing costly climate action, however, requires support from domestic populations, which are sensitive to the distributional effects from climate policy. In this paper we argue that individuals react to what they learn about the industrial impacts of climate action, both at home and abroad. Specifically, we contend that people's beliefs over how countries are affected by stringent climate policy are sensitive to information about which economic sectors win and lose from such policy scenario. However, we also conjecture that this sensitivity may be different if the country in question is the home country or a foreign one, and speculate that more general feelings about *international embeddedness* can explain different effects that winning and losing sectoral information may have in the focal country. Findings from an original survey experiment with a nationally representative sample in the UK shows home bias in how respondents assess distributional effects from climate action: information about winning and losing sectors shapes home country beliefs, while information from abroad is discounted. We also show that people's stance on the international order -- measured as Brexit preferences -- matters for their belief about the distributive politics of climate change."
+abstract = "With the negotiation of the Paris Agreement on Climate Change in 2015, international climate governance has moved away from a top-down to a bottom-up approach. In this weakly institutionalized setup, national governments set their climate targets voluntarily. Since climate policy has distributional effects, ratcheting up climate ambition over time will only become politically feasible if the general public believes that their country can win from ambitious climate action. In this paper, we develop a theory of belief formation which anchors distributional effects from climate action at the sector level. Specifically, we study how knowing about these impacts shapes public beliefs about collective economic consequences from climate policy not only in a home country but also abroad. Findings from a nationally representative survey experiment in the United Kingdom demonstrate that respondents are biased towards their home country in assessing information about winning and losing sectors: while beliefs brighten for good news and worsen for bad news when home country information is provided, distributional effects from abroad are discounted for belief formation. We also show that feelings of *international embeddedness*, akin to globalization attitudes, make respondents consistently hold more positivebeliefs that the UK can benefit from ambitious climate action. Ruling out several alternative explanations, these results offer a first step towards a better understanding of how distributional effects in one issue area, such as globalization, can spill over to other issue areas, such as climate change."
 
 # abstract_short = "A short version of the abstract."
 
