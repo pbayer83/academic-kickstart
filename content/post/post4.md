@@ -38,7 +38,7 @@ date= "2020-07-14"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -70,5 +70,3 @@ date= "2020-07-14"
 +++
 
 Federica Genovese (Essex) and I published a new paper with *Global Environmental Politics*. We study how distributional effects from climate policy at the sector level affect the general public's believes about collective economic consequences from ambitious climate action. In a nationally representative survey experiment in the UK we not only find evidence for what we call home bias---a form of discounting information from abroad---in belief formation; we also show that how internationally embedded respondents feel is important for how they evaluate potential benefits from climate action. This offers first insights into how distributional effects from economic globalization spill over into climate politics.
-
-# My paper together with Michaël Aklin (Pittsburgh) on the [effectiveness of EU carbon markets](https://www.pnas.org/content/early/2020/04/01/1918128117) was published in the *Proceedings of the National Academy of the Sciences in the United States* (PNAS). We find that despite low prices carbon markets in Europe helped reduce carbon emissions by 1.2bn tons from 2008-2016, or about 3.8% of total EU-wide emissions. While this is positive news, we also caution that these reductions likely only happened because market participants perceived European carbon regulation are credible. Political will is hence key for successful regulation in the EU and elsewhere.

@@ -38,7 +38,7 @@ date= "2020-04-13"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -69,5 +69,5 @@ date= "2020-04-13"
 
 +++
 
-My paper together with Michaël Aklin (Pittsburgh) on the ["effectiveness of EU carbon markets]"(https://www.pnas.org/content/early/2020/04/01/1918128117) was published in the *Proceedings of the National Academy of the Sciences in the United States* (PNAS). We find that despite low prices carbon markets in Europe helped reduce carbon emissions by 1.2bn tons from 2008-2016, or about 3.8% of total EU-wide emissions. While this is positive news, we also caution that these reductions likely only happened because market participants perceived European carbon regulation are credible. Political will is hence key for successful regulation in the EU and elsewhere.
+My paper together with Michaël Aklin (Pittsburgh) on the ["effectiveness of EU carbon market"](https://www.pnas.org/content/early/2020/04/01/1918128117) was published in the *Proceedings of the National Academy of the Sciences in the United States* (PNAS). We find that despite low prices carbon markets in Europe helped reduce carbon emissions by 1.2bn tons from 2008-2016, or about 3.8% of total EU-wide emissions. While this is positive news, we also caution that these reductions likely only happened because market participants perceived European carbon regulation are credible. Political will is hence key for successful regulation in the EU and elsewhere.
 
