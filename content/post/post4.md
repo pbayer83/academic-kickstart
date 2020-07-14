@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Forthcoming Paper with Global Environmental Politics"
+title = "Forthcoming Paper in Global Environmental Politics"
 subtitle = ""
 
 date= "2020-07-14"
