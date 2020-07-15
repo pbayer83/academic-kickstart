@@ -1,7 +1,6 @@
 +++
 title = "Beliefs about Climate Action Consequences under Weak Global Institutions: Sectors, Home Bias, and International Embeddedness"
 
-featured=true
 
 # Date first published.
 date = "2020-07-14"
