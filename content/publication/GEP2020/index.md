@@ -20,7 +20,9 @@ authors = ["Patrick Bayer", "Federica Genovese"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Forthcoming in *Global Environmental Politics*.  [[PDF](https://www.dropbox.com/s/2zlakotoa7iap85/BayerGenovese_FINAL.pdf?dl=0)]"
+publication = "*Global Environmental Politics*.  [[PDF](https://www.dropbox.com/s/2zlakotoa7iap85/BayerGenovese_FINAL.pdf?dl=0)] [[Data and code](https://doi.org/10.7910/DVN/UWEXVS)]"
+
+
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
