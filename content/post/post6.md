@@ -10,7 +10,7 @@ weight = 20  # Order that this section will appear.
 title = "APSA Emerging Young Scholar Award"
 subtitle = ""
 
-date= "2020-06-24"
+date= "2021-06-24"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
