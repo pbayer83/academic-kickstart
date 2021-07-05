@@ -80,7 +80,7 @@ I am a Senior Lecturer in International Relations in the [School of Government &
 
 My research focuses on international cooperation and the political economy of environmental regulation and energy policy. I am particularly interested in how the domestic political economy and political incentives shape governments' and firms' responses to climate change and the global energy transformation. Current projects include work on the politics of carbon markets, firms' voluntary decarbonization commitments, and formal and empirical models of climate treaty-making. I regularly teach classes on International Organizations and Global Energy Policy and Politics.
 
-In 2021, I was awarded the APSA STEP section's *Emerging Young Scholar Award* for a "researcher, within 10 years of completing their Ph.D. degree, who is making notable contributions to the field of science, technology, and environmental politics."
+In 2021, I was awarded the [APSA STEP](https://connect.apsanet.org/s15/step-awards-2/) section's *Emerging Young Scholar Award* for a "researcher, within 10 years of completing their Ph.D. degree, who is making notable contributions to the field of science, technology, and environmental politics."
 
 Among other outlets, my work was published in the *Journal of Politics*, *Journal of Conflict Resolution*, *Energy Economics*, *PNAS*, and *Science Advances*. My book on [Escaping the Energy Poverty Trap](https://mitpress.mit.edu/books/escaping-energy-poverty-trap) was published with MIT Press in 2018 and offers the first comprehensive political science account of energy poverty. I have written for *The Washington Post*'s Monkey Cage, VoxDev, and ISEP. My work has been covered by *The Economist*.
 
