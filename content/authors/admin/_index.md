@@ -76,9 +76,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Senior Lecturer in International Relations in the [School of Government & Public Policy](https://www.strath.ac.uk/humanities/governmentpublicpolicy/) and Chancellor’s Fellow in the [Centre for Energy Policy](https://www.strath.ac.uk/humanities/centreforenergypolicy/) at the University of Strathclyde. I am also a non-resident Fellow at the [Initiative for Sustainable Energy Policy (ISEP)](https://sais-isep.org/), Johns Hopkins School of Advanced International Studies (SAIS) and Associated Researcher at the Centre for the [Political Economy of Reforms](https://reforms.uni-mannheim.de/) at the University of Mannheim.
-
-My research focuses on international cooperation and the political economy of environmental regulation and energy policy. I am particularly interested in how the domestic political economy and political incentives shape governments' and firms' responses to climate change and the global energy transformation. I regularly teach classes on international organizations and global energy/climate policy and politics.
+I am a Senior Lecturer in International Relations in the [School of Government & Public Policy](https://www.strath.ac.uk/humanities/governmentpublicpolicy/) and Chancellor’s Fellow in the [Centre for Energy Policy](https://www.strath.ac.uk/humanities/centreforenergypolicy/) at the University of Strathclyde. My research focuses on international cooperation and the political economy of environmental regulation and energy policy. I am particularly interested in how the domestic political economy and political incentives shape governments' and firms' responses to climate change and the global energy transformation. I regularly teach classes on international organizations and global energy/climate policy and politics.
 
 In 2021, I was awarded the [APSA STEP](https://connect.apsanet.org/s15/step-awards-2/) section's *Emerging Young Scholar Award* for a "researcher, within 10 years of completing their Ph.D. degree, who is making notable contributions to the field of science, technology, and environmental politics." I received funding from the British Academy and the Carnegie Trust.
 
