@@ -7,10 +7,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Nomination for Teaching Excellence Award"
+title = "APSA Emerging Young Scholar Award"
 subtitle = ""
 
-date= "2021-04-30"
+date= "2020-06-24"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -69,5 +69,4 @@ date= "2021-04-30"
 
 +++
 
-I am delighted to have been nominated for one of this year's [Strathclyde Student Union's](https://www.strathunion.com/voice/studentexec/vicepresidenteducation/teachingexcellenceawards/) *Teaching Excellence Awards* in the category of "Going the Extra Mile." While this would always have been a great honor, I am very happy for this nomination during a truly testing academic year, both for students and staff. This means a lot to me!
-
+I was awarded this year's ["Emerging Young Scholar Award"](https://connect.apsanet.org/s15/step-awards-2/) by the American Political Science Association's (APSA) Section on "Science, Technology & Environmental Politics" (STEP). This award is "given in recognition of a researcher, within 10 years of completing their Ph.D. degree, who is making notable contributions to the field of science, technology, and environmental politics." I am immensely grateful for this outstanding honor.
