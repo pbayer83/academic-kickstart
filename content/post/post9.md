@@ -7,10 +7,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Major ESRC Grant on Politics of Climate Science"
+title = "Piece on UN climate summit in The Conversation"
 subtitle = ""
 
-date= "2021-08-20"
+date= "2021-10-06"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -69,5 +69,4 @@ date= "2021-08-20"
 
 +++
 
-I have been awarded a major half a million pounds [ESRC](https://esrc.ukri.org/) grant to study the "Politics of Science in International Climate Cooperation". Together with [Hannah Hughes](https://www.cardiff.ac.uk/people/view/330670-hughes-hannah) from Cardiff and [Erlend Hermansen](https://cicero.oslo.no/en/employee/13/erlend-andre-tveiten-hermansen) from CICERO in Oslo, we will study how, when, and with what effect governments may attempt to shape the production and uptake of [IPCC](https://www.ipcc.ch/) climate reports. While much anecdotal evidence of such influence exists, we lack systematic knowledge. Drawing on a wide range of methods, including statistical modelling and cutting edge text-as-data methods as well as participant observation and elite interviews, we will analyse nomination, approval, and uptake processes of the newest [IPCC Assessment Report 6](https://www.ipcc.ch/assessment-report/ar6/). [CICERO](https://cicero.oslo.no/en) in Norway, [PIK](https://www.pik-potsdam.de/en/home) in Germany, and the [Tyndall Centre](https://www.tyndall.ac.uk/) in the UK will be involved in the dissemination of project findings.
-
+Together with my colleague [Federica Genovese] (http://www.federica-genovese.com/) at Essex, I published a thought piece about the forthcoming UN climate summit, COP26, at Glasgow in [The Conversation](https://theconversation.com/cop26-whats-the-point-of-this-years-un-climate-summit-in-glasgow-167509). Our central punchline is that very possibly what is *not* on the negotiating table, that is, the domestic politics of national decarbonisation, is more critical than what will be discussed at the climate conference. 
