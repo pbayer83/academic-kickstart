@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "LSE EUROPP Blog Post on EU Climate Action"
+title = "LSE EUROPP blog post on EU climate action"
 subtitle = ""
 
 date= "2021-08-11"

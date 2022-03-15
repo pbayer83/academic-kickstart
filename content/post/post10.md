@@ -7,10 +7,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Forthcoming paper in Global Environmental Politics"
+title = "British Academy funding for new project on corporate climate action"
 subtitle = ""
 
-date= "2020-07-14"
+date= "2022-15-03"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -69,4 +69,4 @@ date= "2020-07-14"
 
 +++
 
-Federica Genovese (Essex) and I published a new paper with *Global Environmental Politics*. We study how distributional effects from climate policy at the sector level affect the general public's believes about collective economic consequences from ambitious climate action. In a nationally representative survey experiment in the UK we not only find evidence for what we call home bias---a form of discounting information from abroad---in belief formation; we also show that how internationally embedded respondents feel is important for how they evaluate potential benefits from climate action. This offers first insights into how distributional effects from economic globalization spill over into climate politics.
+I was awarded funding by the British Academy under their Small Grant scheme for a new research project that studies corporate climate action. The project titled "How Credible are Firms' Voluntary Climate Commitments? An Empirical Analysis of Corporate Climate Action" will study the conditions under which firms’ voluntary commitments are likely to translate into sustained, corporate climate action rather than empty promises of greenwashing. The project will contribute to the literature on corporate climate action in national and international climate politics.

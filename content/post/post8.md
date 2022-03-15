@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Major ESRC Grant on Politics of Climate Science"
+title = "Major ESRC grant on the politics of climate science"
 subtitle = ""
 
 date= "2021-08-20"
