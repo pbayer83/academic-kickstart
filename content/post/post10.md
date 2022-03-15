@@ -10,7 +10,7 @@ weight = 20  # Order that this section will appear.
 title = "British Academy funding for new project on corporate climate action"
 subtitle = ""
 
-date= "2022-15-03"
+date= "2022-03-15"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
