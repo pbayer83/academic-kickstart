@@ -16,7 +16,7 @@ authors = ["Patrick Bayer", "Johannes Urpelainen"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["5"]
 
 # Publication name and optional abbreviated version.
 publication = "*Review of Policy Research* 30(2):160-189. [[PDF](https://onlinelibrary.wiley.com/doi/abs/10.1111/ropr.12013)]"
