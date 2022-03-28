@@ -25,7 +25,7 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "2"
+    publication_type = "5"
   
 [design]
   # Toggle between the various page layout types.
@@ -33,7 +33,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 4
   
 [design.background]
   # Apply a background color, gradient, or image.
