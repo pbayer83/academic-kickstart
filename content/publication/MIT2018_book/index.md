@@ -23,7 +23,7 @@ publication = "MIT Press, Cambridge (MA). [[PDF](https://mitpress.mit.edu/books/
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "*Summary:* The first comprehensive political science account of energy poverty, arguing that governments can improve energy access for their citizens through appropriate policy design.
+abstract = "Summary: The first comprehensive political science account of energy poverty, arguing that governments can improve energy access for their citizens through appropriate policy design.
 
 In today's industrialized world, almost everything we do consumes energy. While industrialized countries enjoy all the amenities of modern energy, more than a billion people in the developing world still lack energy access. Why is energy poverty persistent in some countries and not in others? Offering the first comprehensive political science account of energy poverty, Escaping the Energy Poverty Trap explores why governments have or have not been able to lead in providing modern energy to their least advantaged citizens.
 
