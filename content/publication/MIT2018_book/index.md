@@ -1,5 +1,5 @@
 +++
-title = " Escaping the Energy Poverty Trap: When and How Governments Power the Lives of the Poor"
+title = "Escaping the Energy Poverty Trap: When and How Governments Power the Lives of the Poor"
 
 # Date first published.
 date = "2019-11-01"
