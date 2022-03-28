@@ -5,7 +5,7 @@ title = " Escaping the Energy Poverty Trap: When and How Governments Power the L
 date = "2018-11-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Michael Aklin", "Patrick Bayer" "S.P. Harish", "Johannes Urpelainen"]
+authors = ["Michael Aklin", "Patrick Bayer", "S.P. Harish", "Johannes Urpelainen"]
 
 # Publication type.
 # Legend:
