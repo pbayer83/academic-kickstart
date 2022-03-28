@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Working Papers"
+title = "Work in Progress"
 subtitle = ""
 
 [content]
@@ -62,3 +62,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+- The Breadth-Depth Trade-off and the Cost of Non-Cooperation in Multilateral Agreements
+
+- Compliance with International Environmental Regulation: Installation-Level Evidence from European Carbon Markets
+
+- Climate Policy Costs and Backlash against International Cooperation (with Federica Genovese, Essex)
+
+- Decarbonization or Greenwashing? Firm-level Evidence of Voluntary Corporate Climate Action (with Jonas Bunte, Vienna)
+
+- Popular Support for Supranational Climate Policies--Evidence from Germany (with Lena Schaffer, Lucerne)
