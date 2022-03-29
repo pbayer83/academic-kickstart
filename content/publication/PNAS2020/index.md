@@ -31,7 +31,7 @@ abstract = "International carbon markets are an appealing and increasingly popul
 preview_only = true
 
 # Is this a selected publication? (true/false)
-selected = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
