@@ -28,8 +28,7 @@ abstract = "International carbon markets are an appealing and increasingly popul
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
-preview = true
-#preview_only = true
+preview_only = true
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -64,7 +63,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "pnas.jpg"
+#image = "pnas.jpg"
 #caption = "My caption 😄"
 
 +++
