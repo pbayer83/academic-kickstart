@@ -28,7 +28,8 @@ abstract = "International carbon markets are an appealing and increasingly popul
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
-image_preview = "true"
+#image_preview = "true"
+image: preview only: true 
 
 # Is this a selected publication? (true/false)
 selected = true
