@@ -56,7 +56,7 @@ EUSED provides CO2 emissions for 33 countries (EU ETS member countries plus Swit
 
 (1) Bayer, Patrick. 2019. “European Union Sectoral Emissions Data (EUSED).” Available at [https://dataverse.harvard.edu/dataverse/eused](https://dataverse.harvard.edu/dataverse/eused).
 
-(2) Bayer, Patrick and Michaël Aklin. 2020. "The European Union Emissions Trading System Reduced CO2 Emissions Despite Low Prices." <i>Proceedings of the National Academy of the Sciences</i> 117(16): 8804-8812.
+(2) Bayer, Patrick and Michaël Aklin. 2020. "The European Union Emissions Trading System Reduced CO2 Emissions Despite Low Prices." <i>Proceedings of the National Academy of the Sciences.</i> 117(16): 8804-8812.
 
 
-_Acknowledgment_: I gratefully acknowledge funding by the British Academy/Leverhulme Small Grant (SG171349, 1 January 2018 to 30 May 2019). Constantin Brod offered excellent research assistance. 
+<i>Acknowledgment:</i> I gratefully acknowledge funding by the British Academy/Leverhulme Small Grant (SG171349, 1 January 2018 to 30 May 2019). Constantin Brod offered excellent research assistance. 
