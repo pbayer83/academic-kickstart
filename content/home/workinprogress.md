@@ -51,7 +51,11 @@ subtitle = ""
 +++
 
 - The Breadth-Depth Trade-off and the Cost of Non-cooperation in Multilateral Agreements.
-- Compliance with International Environmental Regulation: Installation-level Evidence from European Carbon Markets
-- Decarbonization or Greenwashing? Firm-level Evidence of Voluntary Corporate Climate Action (with Jonas Bunte)
-- Climate Policy Costs and Backlash Against International Cooperation (with Federica Genovese)
-- Popular Support for Supranational Climate Policies--Evidence from Germany (with Lena Schaffer)
+
+- Compliance with International Environmental Regulation: Installation-level Evidence from European Carbon Markets.
+
+- Decarbonization or Greenwashing? Firm-level Evidence of Voluntary Corporate Climate Action (with Jonas Bunte).
+
+- Climate Policy Costs and Backlash Against International Cooperation (with Federica Genovese).
+
+- Popular Support for Supranational Climate Policies--Evidence from Germany (with Lena Schaffer).
