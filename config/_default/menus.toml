@@ -20,7 +20,7 @@
     url = "https://www.dropbox.com/s/6npjw6ccyv34ymn/CV_BAYER_current.pdf?dl=0"
     weight = 30
 
-#[[main]]
+[[main]]
   name = "Projects"
   url = "#projects"
   weight = 40
