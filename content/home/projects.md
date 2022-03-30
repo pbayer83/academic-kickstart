@@ -26,7 +26,7 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = "1"
-	exclude_featured = true
+	exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
