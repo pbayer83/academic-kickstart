@@ -69,4 +69,4 @@ date= "2022-05-12"
 
 +++
 
-Strathclyde's School of Government & Public Policy came [1st in the UK 2021 REF (https://www.timeshighereducation.com/news/ref-2021-politics-and-international-studies) in the Unit of Assessment for Politics and International Studies (UoA 19). Our Department climbed ten spots from 11th place in the 2014 REF.
+Strathclyde's School of Government & Public Policy came [1st in the UK 2021 REF] (https://www.timeshighereducation.com/news/ref-2021-politics-and-international-studies) in the Unit of Assessment for Politics and International Studies (UoA 19). Our Department climbed ten spots from 11th place in the 2014 REF.
