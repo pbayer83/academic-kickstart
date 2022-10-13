@@ -54,8 +54,12 @@ subtitle = ""
 
 - Compliance with International Environmental Regulation: Installation-level Evidence from European Carbon Markets.
 
-- Decarbonization or Greenwashing? Firm-level Evidence of Voluntary Corporate Climate Action (with Jonas Bunte).
-
 - Climate Policy Costs and Backlash Against International Cooperation (with Federica Genovese).
 
+- Emissions, Carbon Disclosure, and the U.S. EXIM Bank (with Jonas Bunte).
+
+- Big Crises, Small Wins: The Missed Opportunities of International Energy Transitions. (with Lorenzo Crippa and Federica Genovese).
+
 - Popular Support for Supranational Climate Policies--Evidence from Germany (with Lena Schaffer).
+
+- Is it all Cheap Talk? The Effects of International Climate Agreements on Domestic Political Debates (with Zac Greene and Christine Sylvester)
