@@ -82,4 +82,4 @@ In currently ongoing work, I study the politics of carbon markets, firms' commit
 
 Among other outlets, my work was published in the *Journal of Politics*, *Journal of Conflict Resolution*, *Energy Economics*, *PNAS*, and *Science Advances*. My book on [Escaping the Energy Poverty Trap](https://mitpress.mit.edu/books/escaping-energy-poverty-trap) was published with MIT Press in 2018 and offers the first comprehensive political science account of energy poverty. I have written for *The Washington Post*'s Monkey Cage, VoxDev, The Conversation and the LSE's EUROPP blog. My work has been covered by *The Economist*.
 
-My contact details can be found in my [CV here](https://www.dropbox.com/s/ebelbkc8wpjq7sp/CV_BAYER_current.pdf?dl=0).
+My contact details can be found in my [CV here](https://www.dropbox.com/s/50uweg1dc7kbc7z/CV_BAYER_current.pdf?dl=0).
