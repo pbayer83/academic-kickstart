@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Reader in International Relations
+role: Professor in Environmental Sustainability & Democracy
 
 # Organizations/Affiliations
 organizations:
-- name: University of Strathclyde
+- name: University of Glasgow
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -76,9 +76,9 @@ user_groups:
 - Visitors
 ---
 
-I am a Reader in International Relations in the [School of Government & Public Policy](https://www.strath.ac.uk/humanities/governmentpublicpolicy/) and Chancellor’s Fellow in the [Centre for Energy Policy](https://www.strath.ac.uk/humanities/centreforenergypolicy/) at the University of Strathclyde. Starting in May 2023, I will be joining the [School of Social and Political Sciences](https://www.gla.ac.uk/schools/socialpolitical/) at the University of Glasgow as full Professor in Environmental Sustainability & Democracy. My research focuses on international cooperation and the political economy of environmental regulation and energy policy. I am particularly interested in how the domestic and international political economy and political incentives shape *governments'*, *firms'*, and *individuals'* responses to climate change and the global energy transformation.
+I am a Professor in Sustainable Environment & Democracy in the [School of Social and Political Sciences](https://www.gla.ac.uk/schools/socialpolitical/) at the University of Glasgow. My research focuses on international cooperation and the political economy of environmental regulation and energy policy. I am particularly interested in how the domestic and international political economy and political incentives shape *governments'*, *firms'*, and *individuals'* responses to climate change and the global energy transformation.
 
-In currently ongoing work, I study the politics of carbon markets, firms' commitments to corporate decarbonisation, and the distributional effects of climate policy. I also lead a recently awarded [ESRC project](https://gtr.ukri.org/projects?ref=ES%2FW001373%2F1) on the role of science in internatonal climate cooperation. I received the *Emerging Young Scholar Award* of APSA's [Science, Technology and Environmental Policy (STEP)](https://connect.apsanet.org/s15/step-awards-2/) section in 2021 and successfully obtained funding from the British Academy, the Carnegie Trust, and the Economic and Social Research Council (ESRC). My teaching regularly involves classes on international organizations and global energy/climate policy and politics.
+In currently ongoing work, I study the politics of carbon markets, firms' commitments to corporate decarbonisation, and the distributional effects of climate policy. I also lead a recently awarded [ESRC project](https://gtr.ukri.org/projects?ref=ES%2FW001373%2F1) on the role of science in international climate cooperation. I received the *Emerging Young Scholar Award* of APSA's [Science, Technology and Environmental Policy (STEP)](https://connect.apsanet.org/s15/step-awards-2/) section in 2021 and successfully obtained funding from the British Academy, the Carnegie Trust, and the Economic and Social Research Council (ESRC). My teaching regularly involves classes on international organizations and global energy/climate policy and politics.
 
 Among other outlets, my work was published in the *Journal of Politics*, *Journal of Conflict Resolution*, *Energy Economics*, *PNAS*, and *Science Advances*. My book on [Escaping the Energy Poverty Trap](https://mitpress.mit.edu/books/escaping-energy-poverty-trap) was published with MIT Press in 2018 and offers the first comprehensive political science account of energy poverty. I have written for *The Washington Post*'s Monkey Cage, VoxDev, The Conversation and the LSE's EUROPP blog. My work has been covered by *The Economist*.
 
