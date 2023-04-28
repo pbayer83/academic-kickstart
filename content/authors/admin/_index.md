@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor in Environmental Sustainability & Democracy
+role: Professor in Environmental Sustainability \\ & Democracy
 
 # Organizations/Affiliations
 organizations:
@@ -76,7 +76,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Professor in Sustainable Environment & Democracy in the [School of Social and Political Sciences](https://www.gla.ac.uk/schools/socialpolitical/) at the University of Glasgow. My research focuses on international cooperation and the political economy of environmental regulation and energy policy. I am particularly interested in how the domestic and international political economy and political incentives shape *governments'*, *firms'*, and *individuals'* responses to climate change and the global energy transformation.
+I am a Professor in Sustainable Environment & Democracy in the [School of Social and Political Sciences](https://www.gla.ac.uk/schools/socialpolitical/) at the [University of Glasgow](https://www.gla.ac.uk/). I am also affiliated with the Global Sustainable Development theme in the University's new [Advanced Research Centre](https://www.gla.ac.uk/research/arc/) (ARC). My research focuses on international cooperation and the political economy of environmental regulation and energy policy. I am particularly interested in how the domestic and international political economy and political incentives shape *governments'*, *firms'*, and *individuals'* responses to climate change and the global energy transformation.
 
 In currently ongoing work, I study the politics of carbon markets, firms' commitments to corporate decarbonisation, and the distributional effects of climate policy. I also lead a recently awarded [ESRC project](https://gtr.ukri.org/projects?ref=ES%2FW001373%2F1) on the role of science in international climate cooperation. I received the *Emerging Young Scholar Award* of APSA's [Science, Technology and Environmental Policy (STEP)](https://connect.apsanet.org/s15/step-awards-2/) section in 2021 and successfully obtained funding from the British Academy, the Carnegie Trust, and the Economic and Social Research Council (ESRC). My teaching regularly involves classes on international organizations and global energy/climate policy and politics.
 
