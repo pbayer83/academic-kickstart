@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor in Environmental Sustainability \\ & Democracy
+role: Professor in Environmental Sustainability \ & Democracy
 
 # Organizations/Affiliations
 organizations:
