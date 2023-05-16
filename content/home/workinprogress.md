@@ -54,12 +54,16 @@ subtitle = ""
 
 - Compliance with International Environmental Regulation: Installation-level Evidence from European Carbon Markets.
 
-- Climate Policy Costs and Backlash Against International Cooperation (with Federica Genovese).
+- Government Interference in Information Production of International Organizations (with Lorenzo Crippa).
 
-- Emissions, Carbon Disclosure, and the U.S. EXIM Bank (with Jonas Bunte).
+- Climate Policy Costs, Regional Politics and Backlash against International Cooperation (with Federica Genovese).
 
-- Big Crises, Small Wins: The Missed Opportunities of International Energy Transitions. (with Lorenzo Crippa and Federica Genovese).
+- Carbon Disclosure, Environmental Regulation, and the U.S. EXIM Bank (with Jonas Bunte).
 
-- Popular Support for Supranational Climate Policies--Evidence from Germany (with Lena Schaffer).
+- Big Crises, Small Wins: The Missed Opportunities of International Energy Transitions (with Lorenzo Crippa and Federica Genovese).
+
+- Popular Support for a Carbon Border Adjustment Mechanism: Evidence from four European Countries (with Lena Schaffer).
 
 - Is it all Cheap Talk? The Effects of International Climate Agreements on Domestic Political Debates (with Zac Greene and Christine Sylvester)
+
+- The Effect of Virtual Meeting Formats on Intergovernmental Negotiations: Evidence from IPCC Approval Sessions (with Lorenzo Crippa, Erlend Hermansen, and Hannah Hughes)
