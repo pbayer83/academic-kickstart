@@ -44,7 +44,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:patrick.bayer@strath.ac.uk  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:patrick.bayer@glasgow.ac.uk # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/pol_economist
