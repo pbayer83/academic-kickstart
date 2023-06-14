@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-- [Climate Policy Costs, Regional Politics and Backlash against International Cooperation] (https://osf.io/qb5fw) (with Federica Genovese, under review).
+- [Climate Policy Costs, Regional Politics and Backlash against International Cooperation](https://osf.io/qb5fw) (with Federica Genovese, under review).
 
 - The Breadth-Depth Trade-off and the Cost of Non-cooperation in Multilateral Agreements.
 
