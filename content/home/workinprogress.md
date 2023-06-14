@@ -50,13 +50,13 @@ subtitle = ""
  css_class = ""
 +++
 
+- [Climate Policy Costs, Regional Politics and Backlash against International Cooperation](https://osf.io/qb5fw) (with Federica Genovese, under review).
+
 - The Breadth-Depth Trade-off and the Cost of Non-cooperation in Multilateral Agreements.
 
 - Compliance with International Environmental Regulation: Installation-level Evidence from European Carbon Markets.
 
 - Government Interference in Information Production of International Organizations (with Lorenzo Crippa).
-
-- Climate Policy Costs, Regional Politics and Backlash against International Cooperation (with Federica Genovese).
 
 - Carbon Disclosure, Environmental Regulation, and the U.S. EXIM Bank (with Jonas Bunte).
 
