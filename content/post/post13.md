@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "New Position"
+title = "Professorial Appointment at the University of Glasgow"
 subtitle = ""
 
 date= "2022-06-23"
