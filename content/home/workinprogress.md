@@ -52,6 +52,8 @@ subtitle = ""
 
 - [Climate Policy Costs, Regional Politics and Backlash against International Cooperation](https://osf.io/qb5fw) (with Federica Genovese, under review).
 
+- Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions (with Lorenzo Crippa, Hannah Hughes, and Erlend Hermansen, under review).
+
 - The Breadth-Depth Trade-off and the Cost of Non-cooperation in Multilateral Agreements.
 
 - Compliance with International Environmental Regulation: Installation-level Evidence from European Carbon Markets.
@@ -60,10 +62,8 @@ subtitle = ""
 
 - Carbon Disclosure, Environmental Regulation, and the U.S. EXIM Bank (with Jonas Bunte).
 
-- Big Crises, Small Wins: The Missed Opportunities of International Energy Transitions (with Lorenzo Crippa and Federica Genovese).
+- Market Effects of Sluggish Policy Responses: Evidence from EU Geopolitical and Climate Interventionist Policies (with Lorenzo Crippa and Federica Genovese).
 
 - Popular Support for a Carbon Border Adjustment Mechanism: Evidence from four European Countries (with Lena Schaffer).
 
 - Is it all Cheap Talk? The Effects of International Climate Agreements on Domestic Political Debates (with Zac Greene and Christine Sylvester)
-
-- The Effect of Virtual Meeting Formats on Intergovernmental Negotiations: Evidence from IPCC Approval Sessions (with Lorenzo Crippa, Erlend Hermansen, and Hannah Hughes)
