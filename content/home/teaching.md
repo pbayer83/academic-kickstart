@@ -50,8 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
-- EC964: Global Energy Policy and Politics (spring 2022, graduate) [[Syllabus](https://www.dropbox.com/s/30de5skmguhb04m/GEPP_readings.pdf?dl=0)]
-
-- L2912: International Institutions and Regimes (spring 2020, graduate) [[Syllabus](https://www.dropbox.com/s/j0ka5ia4nk4psbx/L2912_International_Institutions_and_Regimes.pdf?dl=0)]
-
+- POLITIC5103: Climate, Energy, and International Relations (spring 2023, graduate) [Syllabus coming soon]
 
