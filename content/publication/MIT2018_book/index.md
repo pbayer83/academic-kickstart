@@ -19,7 +19,7 @@ authors = ["Micha&eumll Aklin", "Patrick Bayer", "S.P. Harish", "Johannes Urpela
 publication_types = ["5"]
 
 # Publication name and optional abbreviated version.
-publication = "MIT Press. Cambridge, MA. [[Publisher & Buy](https://mitpress.mit.edu/books/escaping-energy-poverty-trap)]" 
+publication = "MIT Press. Cambridge, MA. [[Buy](https://mitpress.mit.edu/books/escaping-energy-poverty-trap)]" 
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.

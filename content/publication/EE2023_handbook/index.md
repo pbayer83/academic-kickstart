@@ -20,7 +20,7 @@ authors = ["Michaël Aklin", "Patrick Bayer"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "*Handbook on the Geopolitics of the Energy Transition*. Daniel Scholten (ed), Cheltenham: Edward Elgar. [[Publisher & Buy](https://www.e-elgar.com/shop/gbp/handbook-on-the-geopolitics-of-the-energy-transition-9781800370425.html)]"
+publication = "*Handbook on the Geopolitics of the Energy Transition*. Daniel Scholten (ed), Cheltenham: Edward Elgar. [[Buy](https://www.e-elgar.com/shop/gbp/handbook-on-the-geopolitics-of-the-energy-transition-9781800370425.html)]"
 
 
 # publication_short = "In *ICA*"
