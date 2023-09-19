@@ -5,7 +5,7 @@ title = "The Sectoral Politics of Climate Policy: Domestic Conflict and UK Publi
 date = "2020-01-28"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Patrick Bayer (PI)", "Federica Genovese (Co-I, Essex) <br> Funding period: 1 June 2021--30 June2022"]
+authors = ["Patrick Bayer (PI)", "Federica Genovese (Co-I, Essex) <br> Funding period: 1 June 2021--30 June 2022"]
 
 # Publication type.
 # Legend:
