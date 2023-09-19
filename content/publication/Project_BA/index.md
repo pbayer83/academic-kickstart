@@ -5,7 +5,7 @@ title = "How Credible are Firms’ Voluntary Climate Commitments? An Empirical A
 date = "2022-03-28"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Patrick Bayer (PI), <br> Funding period: 1 May 2022--31 July 2023"]
+authors = ["Patrick Bayer (PI) <br> Funding period: 1 May 2022--31 October 2023"]
 
 # Publication type.
 # Legend:
