@@ -56,14 +56,12 @@ subtitle = ""
 
 - Popular Support for a Carbon Border Adjustment Mechanism: Evidence from four European Countries (with Lena Schaffer, under review).
 
-- The Breadth-Depth Trade-off and the Cost of Non-cooperation in Multilateral Agreements.
+- Carbon Disclosure, Environmental Regulation, and the U.S. EXIM Bank (with Jonas Bunte).
+
+- Energy Transition, Financial Markets and New EU Interventionism (with Lorenzo Crippa and Federica Genovese).
 
 - Compliance with International Environmental Regulation: Installation-level Evidence from European Carbon Markets.
 
 - Government Interference in Information Production of International Organizations (with Lorenzo Crippa).
-
-- Carbon Disclosure, Environmental Regulation, and the U.S. EXIM Bank (with Jonas Bunte).
-
-- Market Effects of Sluggish Policy Responses: Evidence from EU Geopolitical and Climate Interventionist Policies (with Lorenzo Crippa and Federica Genovese).
 
 - Is it all Cheap Talk? The Effects of International Climate Agreements on Domestic Political Debates (with Zac Greene and Christine Sylvester)
