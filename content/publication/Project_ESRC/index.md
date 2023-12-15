@@ -2,7 +2,7 @@
 title = "The Politics of Science in International Climate Cooperation"
 
 # Date first published.
-date = "2021-08-24"
+date = "2023-12-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Patrick Bayer (PI)", "Hannah Hughes (Co-I, Aberystwyth)", "Erlend Hermansen (Co-I, CICERO) <br> Funding period: 1 January 2022--30 June 2025"]
