@@ -19,7 +19,7 @@ authors = ["Patrick Bayer", "Lena Schaffer"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Environmental Research Letters* xx: xxxx. [[PDF](https://iopscience.iop.org/article/10.1088/1748-9326/ad5743)] 
+publication = "*Environmental Research Letters* xx: xxxx. [[PDF](https://iopscience.iop.org/article/10.1088/1748-9326/ad5743)] "
 #[[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LAXOSG)]"
 
 # publication_short = "In *ICA*"
