@@ -1,13 +1,13 @@
 ---
 # Display name
-name: "{{ replace .Name "-" " " | title }}"
+name: "Patrick Bayer"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "{{ replace .Name "-" " " | title }}"
+- admin
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role:
