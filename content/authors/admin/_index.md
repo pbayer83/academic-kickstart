@@ -1,38 +1,41 @@
 ---
 # Display name
-name: "Patrick Bayer"
+name: Patrick Bayer
 
-# Username (this should match the folder name and the name on publications)
+# Username (this should match the folder name)
 authors:
 - admin
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position (e.g., Professor of Artificial Intelligence)
-role:
+# Role/position
+role: Professor in Environmental Sustainability </br> & Democracy
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: University of Glasgow
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# List each interest with a dash
-interests:
-- Interest 1
-- Interest 2
+# interests:
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
 
-education:
-  courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+# education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+# institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,16 +44,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:patrick.bayer@glasgow.ac.uk # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: https://twitter.com/pol_economist
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: https://scholar.google.co.uk/citations?user=K-GUBrYAAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/patbayer/  
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-1731-1270
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/pbyr
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,6 +72,13 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Group 1
-- Group 2
+- Researchers
+- Visitors
 ---
+
+#I am Professor in Environmental Sustainability & Democracy in the [School of Social and Political Sciences](https://www.gla.ac.uk/schools/socialpolitical/) at the [University of Glasgow](https://www.gla.ac.uk/) and Research Director in [Politics and International Relations](https://www.gla.ac.uk/schools/socialpolitical/research/politics/). I am affiliated with the Global Sustainable Development theme in the University's [Advanced Research Centre](https://www.gla.ac.uk/research/arc/) (ARC). I also serve on the Organizing Executive Committee of the [Environmental Politics and Governance](https://epgnetwork.org/) (EPG) network and was Conference Chair for [EPG's 9th Annual Conference](https://epgnetwork.org/wp-content/uploads/2023/07/2023-Glasgow-EPG-Programme.pdf) in Glasgow in 2023.
+
+#My research focuses on international cooperation and the political economy of environmental regulation and energy policy. I am particularly interested in how the domestic and international political economy and political incentives shape *governments'*, *firms'*, and *individuals'* responses to climate change and the global energy transformation.
+
+#Currently, I study the politics of carbon markets, firms' commitments to corporate decarbonisation, and the distributional effects of climate policy. I also lead an ESRC-funded research project on the role of science in international climate cooperation. I received the *Emerging Young Scholar Award* of APSA's [Science, Technology and Environmental Policy (STEP)](https://connect.apsanet.org/s15/step-awards-2/) section in 2021 and successfully obtained funding from the British Academy, the Carnegie Trust, and the Economic and Social Research Council (ESRC). Among other outlets, my work was published in the *Journal of Politics*, *Journal of Conflict Resolution*, *Energy Economics*, *PNAS*, *Science Advances* and with MIT Press. My teaching regularly involves classes on international organizations and global energy/climate policy and politics.
+#My contact details can be found in my [CV here](https://www.dropbox.com/s/50uweg1dc7kbc7z/CV_BAYER_current.pdf?dl=0).
