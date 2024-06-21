@@ -50,11 +50,11 @@ subtitle = ""
  css_class = ""
 +++
 
-- Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions (with Lorenzo Crippa, Hannah Hughes, and Erlend Hermansen, under review).
+- Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions (with Lorenzo Crippa, Hannah Hughes, and Erlend Hermansen, conditionally accepted at *Climatic Change*).
 
 - [Climate Policy Costs, Regional Politics and Backlash against International Cooperation](https://osf.io/qb5fw) (with Federica Genovese, under review).
 
-- Popular Support for a Carbon Border Adjustment Mechanism: Evidence from four European Countries (with Lena Schaffer, under review).
+- Mapping Engagement Levels of Governments in IPCC Approval Meetings by Topic from Text (with Lorenzo Crippa, Hannah Hughes, and Erlend Hermansen).
 
 - Carbon Disclosure, Environmental Regulation, and the U.S. EXIM Bank (with Jonas Bunte).
 
@@ -62,6 +62,6 @@ subtitle = ""
 
 - Compliance with International Environmental Regulation: Installation-level Evidence from European Carbon Markets.
 
-- Government Interference in Information Production of International Organizations (with Lorenzo Crippa).
+- Government Influence in Information Production of International Organizations (with Lorenzo Crippa).
 
 - Is it all Cheap Talk? The Effects of International Climate Agreements on Domestic Political Debates (with Zac Greene and Christine Sylvester)
