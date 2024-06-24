@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-- Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions (with Lorenzo Crippa, Hannah Hughes, and Erlend Hermansen, conditionally accepted at *Climatic Change*).
+- Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions (with Lorenzo Crippa, Hannah Hughes, and Erlend Hermansen, conditionally accepted at Climatic Change).
 
 - [Climate Policy Costs, Regional Politics and Backlash against International Cooperation](https://osf.io/qb5fw) (with Federica Genovese, under review).
 
