@@ -1,11 +1,11 @@
 +++
-title = "TEST HERE"
+title = "Popular support for a carbon border adjustment mechanism: Evidence from four European countries"
 
 # Date first published.
-date = "2024-06-24"
+date = "2024-06-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Patrick Bayer"]
+authors = ["Patrick Bayer", "Lena Schaffer"]
 
 # Publication type.
 # Legend:
@@ -19,12 +19,13 @@ authors = ["Patrick Bayer"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Politics* 85(4): 1291-1304. [[PDF](https://www.journals.uchicago.edu/doi/abs/10.1086/724963)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LAXOSG)]"
+publication = "*Environmental Research Letters* xx: xxxx. [[PDF](https://iopscience.iop.org/article/10.1088/1748-9326/ad5743)]"
+#[[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LAXOSG)]"
 
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "A central claim in the environmental regulation literature is that, in a globalized world economy, governments are willing to offer favorable regulation to firms that threaten to move their operations abroad. This logic, however, overlooks that firms’ relocation threats are not equally credible. Focusing on variation in ownership structure, I argue that, even among generally mobile multinational corporations (MNCs), their foreign operations are more credibly movable, and hence more favorably regulated, than their operations at home. MNCs’ country-specific investments into the economy and politics of their home markets drive this difference in relative mobility. An empirical analysis that relies on within-firm variation in ownership of MNCs’ production sites across European countries and original plant-level carbon regulation data strongly support my argument: foreign ownership becomes an asset for favorable regulation. These findings highlight the need to account for mobility differences among MNCs."
+abstract = "A carbon border adjustment mechanism (CBAM) is a policy that increases the cost of carbon-intensive imports from countries with no or weak national carbon regulation. Proponents advocate that it helps avoid industrial relocation and protects jobs in the importing country; its critics say that it impedes free trade and drives up prices. Despite European Union legislation to introduce a CBAM policy, we find that citizens in our samples across four European countries---Germany (n=3,500), Hungary (n=2,512), Switzerland (n=2,500), and the United Kingdom (n=2,500)---have not formed clear opinions about the policy yet. Results from survey experiments, conducted over the course of 1.5 years, show a strong dislike for price increases associated with a carbon border tax, while the prospect of job protection does little to increase CBAM support---not even among subgroups most affected by import competition. However, employment effects become relevant when we prompt survey respondents to assess the effects of the carbon border tax for their country as a whole instead of for themselves as individuals. Consistent with exploratory findings that right-leaning voters express a much stronger opposition to the CBAM policy, our results speak to growing evidence of the politically polarizing nature of costly, green policies when citizens have not formed clear opinions about a policy yet."
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
