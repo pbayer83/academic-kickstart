@@ -12,69 +12,69 @@ superuser: true
 # Role/position
 role: Professor in Environmental Sustainability </br> & Democracy
 
-# # Organizations/Affiliations
-# organizations:
-# - name: University of Glasgow
-# #- url: 
+# Organizations/Affiliations
+organizations:
+- name: University of Glasgow
+#- url: 
 
-# # Short bio (displayed in user profile at end of posts)
-# # bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# Short bio (displayed in user profile at end of posts)
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# # interests:
-# # - Artificial Intelligence
-# # - Computational Linguistics
-# # - Information Retrieval
+# interests:
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
 
-# # education:
-# #  courses:
-# #  - course: PhD in Artificial Intelligence
-# #    institution: Stanford University
-# #    year: 2012
-# #  - course: MEng in Artificial Intelligence
-# #    institution: Massachusetts Institute of Technology
-# #    year: 2009
-# #  - course: BSc in Artificial Intelligence
-# # institution: Massachusetts Institute of Technology
-# #    year: 2008
+# education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+# institution: Massachusetts Institute of Technology
+#    year: 2008
 
-# # Social/Academic Networking
-# # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-# #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-# #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-# - icon: envelope
-  # icon_pack: fas
-  # link: mailto:patrick.bayer@glasgow.ac.uk # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-  # icon_pack: fab
-  # link: https://twitter.com/pol_economist
-# - icon: google-scholar
-  # icon_pack: ai
-  # link: https://scholar.google.co.uk/citations?user=K-GUBrYAAAAJ&hl=en
-# - icon: linkedin
-  # icon_pack: fab
-  # link: https://www.linkedin.com/in/patbayer/  
-# - icon: orcid
-  # icon_pack: fab
-  # link: https://orcid.org/0000-0003-1731-1270
-# - icon: github
-  # icon_pack: fab
-  # link: https://github.com/pbyr
-# # Link to a PDF of your resume/CV from the About widget.
-# # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# # - icon: cv
-# #   icon_pack: ai
-# #   link: files/cv.pdf
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:patrick.bayer@glasgow.ac.uk # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/pol_economist
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=K-GUBrYAAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/patbayer/  
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-1731-1270
+- icon: github
+  icon_pack: fab
+  link: https://github.com/pbyr
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
-# # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: ""
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
 
-# # Organizational groups that you belong to (for People widget)
-# #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Researchers
-# - Visitors
-# ---
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Researchers
+- Visitors
+---
 
 # I am Professor in Environmental Sustainability & Democracy in the [School of Social and Political Sciences](https://www.gla.ac.uk/schools/socialpolitical/) at the [University of Glasgow](https://www.gla.ac.uk/) and Research Director in [Politics and International Relations](https://www.gla.ac.uk/schools/socialpolitical/research/politics/). I am affiliated with the Global Sustainable Development theme in the University's [Advanced Research Centre](https://www.gla.ac.uk/research/arc/) (ARC). I also serve on the Organizing Executive Committee of the [Environmental Politics and Governance](https://epgnetwork.org/) (EPG) network and was Conference Chair for [EPG's 9th Annual Conference](https://epgnetwork.org/wp-content/uploads/2023/07/2023-Glasgow-EPG-Programme.pdf) in Glasgow in 2023.
 
