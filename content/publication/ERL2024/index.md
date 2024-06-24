@@ -2,7 +2,7 @@
 title = "TEST HERE"
 
 # Date first published.
-date = "2024-06-25"
+date = "2024-06-24"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Patrick Bayer"]
