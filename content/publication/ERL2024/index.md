@@ -1,5 +1,5 @@
 +++
-title = "Popular support for a carbon border adjustment mechanism: Evidence from four European countries"
+title = "Distributional Consequences Shape Public Support for the EU Carbon Border Adjustment Mechanism: Evidence from four European countries"
 
 # Date first published.
 date = "2024-06-15"
@@ -19,8 +19,7 @@ authors = ["Patrick Bayer", "Lena Schaffer"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Environmental Research Letters* xx: xxxx. [[PDF](https://iopscience.iop.org/article/10.1088/1748-9326/ad5743)]"
-#[[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LAXOSG)]"
+publication = "*Environmental Research Letters* xx: xxxx. [[PDF](https://iopscience.iop.org/article/10.1088/1748-9326/ad5743)]" [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8VHQ43)]"
 
 # publication_short = "In *ICA*"
 
