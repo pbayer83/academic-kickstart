@@ -1,11 +1,11 @@
 +++
-title = "Foreignness as an Asset: European Carbon Regulation and the Relocation Threat among Multinational Firms"
+title = "Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions"
 
 # Date first published.
-date = "2023-09-27"
+date = "2024-07-19"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Patrick Bayer"]
+authors = ["Patrick Bayer", "Lorenzo Crippa", "Hannah Hughes", "Erlend Hermansen"]
 
 # Publication type.
 # Legend:
