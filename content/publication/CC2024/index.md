@@ -1,11 +1,11 @@
 +++
-title = "Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions"
+title = "Foreignness as an Asset: European Carbon Regulation and the Relocation Threat among Multinational Firms"
 
 # Date first published.
-date = "2024-07-21"
+date = "2023-09-27"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Patrick Bayer", "Lorenzo Crippa", "Hannah Hughes", "Erlend Hermansen"]
+authors = ["Patrick Bayer"]
 
 # Publication type.
 # Legend:
@@ -19,12 +19,12 @@ authors = ["Patrick Bayer", "Lorenzo Crippa", "Hannah Hughes", "Erlend Hermansen
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Climatic Change*" 85(4): 1291-1304. [[PDF](https://www.journals.uchicago.edu/doi/abs/10.1086/724963)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LAXOSG)]"
+publication = "*Journal of Politics* 85(4): 1291-1304. [[PDF](https://www.journals.uchicago.edu/doi/abs/10.1086/724963)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LAXOSG)]"
 
 # publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "The Covid-19 pandemic challenged global governance in unprecedented ways by requiring intergovernmental meetings to be held online. For the Intergovernmental Panel on Climate Change (IPCC), this meant that the intergovernmental approval of the key findings of the Sixth Assessment Report (AR6) had to be conducted virtually. In this paper, we assess how the move away from face-to-face meetings affected country participation in IPCC approval sessions. Our findings demonstrate that virtual meetings increased the size of member governments' delegations, but this did not necessarily translate into a greater number of interventions during the approval of the Summary for Policymakers (SPM) as time zone differences reduced engagement levels significantly---particularly for countries from the Pacific, East Asian, and Latin American regions whose delegations often found themselves in IPCC meetings late at night and early in the morning. These results offer initial, empirically robust evidence about what online meetings can and cannot achieve for promoting more inclusive global governance at a time when the IPCC and other organizations reflect on the future use of virtual and hybrid meeting formats."
+abstract = "A central claim in the environmental regulation literature is that, in a globalized world economy, governments are willing to offer favorable regulation to firms that threaten to move their operations abroad. This logic, however, overlooks that firms’ relocation threats are not equally credible. Focusing on variation in ownership structure, I argue that, even among generally mobile multinational corporations (MNCs), their foreign operations are more credibly movable, and hence more favorably regulated, than their operations at home. MNCs’ country-specific investments into the economy and politics of their home markets drive this difference in relative mobility. An empirical analysis that relies on within-firm variation in ownership of MNCs’ production sites across European countries and original plant-level carbon regulation data strongly support my argument: foreign ownership becomes an asset for favorable regulation. These findings highlight the need to account for mobility differences among MNCs."
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
