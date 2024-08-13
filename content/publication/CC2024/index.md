@@ -2,7 +2,7 @@
 title = "Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions"
 
 # Date first published.
-date = "2024-07-19"
+date = "2024-08-13"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Patrick Bayer", "Lorenzo Crippa", "Hannah Hughes", "Erlend Hermansen"]
@@ -19,8 +19,7 @@ authors = ["Patrick Bayer", "Lorenzo Crippa", "Hannah Hughes", "Erlend Hermansen
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Climatic Change* 177: 132." [[PDF](https://link.springer.com/article/10.1007/s10584-024-03790-7)] 
-#[[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LAXOSG)]"
+publication = "*Climatic Change* 177: 132. [[PDF](https://link.springer.com/article/10.1007/s10584-024-03790-7)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LAXOSG)]"
 
 # publication_short = "In *ICA*"
 
