@@ -19,8 +19,8 @@ authors = ["Patrick Bayer", "Lorenzo Crippa", "Hannah Hughes", "Erlend Hermansen
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Climatic Change* xxx: xxx." 
-#[[PDF](https://www.journals.uchicago.edu/doi/abs/10.1086/724963)] [[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LAXOSG)]"
+publication = "*Climatic Change* 177: 132." [[PDF](https://link.springer.com/article/10.1007/s10584-024-03790-7)] 
+#[[Data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LAXOSG)]"
 
 # publication_short = "In *ICA*"
 
