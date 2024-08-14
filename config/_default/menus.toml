@@ -26,10 +26,10 @@
   url = "/pubs"
   weight = 50
 
-[[main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 60
+#[[main]]
+ # name = "Teaching"
+ # url = "#teaching"
+ # weight = 60
 
 #[[main]]
 #  name = "Contact"
