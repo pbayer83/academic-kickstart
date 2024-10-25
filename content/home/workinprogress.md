@@ -52,12 +52,16 @@ subtitle = ""
 
 - [Climate Policy Costs, Regional Politics and Backlash against International Cooperation](https://osf.io/qb5fw) (with Federica Genovese, revise and resubmit).
 
-- Mapping Engagement Levels of Governments in IPCC Approval Meetings by Topic from Text (with Lorenzo Crippa, Hannah Hughes, and Erlend Hermansen, under review).
-
 - Energy Transition, Financial Markets and New EU Interventionism (with Lorenzo Crippa and Federica Genovese, under review).
 
-- Carbon Disclosure, Environmental Regulation, and the U.S. EXIM Bank (with Jonas Bunte).
+- Mapping Engagement Levels of Governments in IPCC Approval Meetings by Topic from Text (with Lorenzo Crippa, Hannah Hughes, and Erlend Hermansen, under review).
+
+- Carbon Disclosure and Government Support in Export Credit Finance (with Jonas Bunte, under review).
 
 - Government Influence in Information Production of International Organizations (with Lorenzo Crippa).
+
+- The Politics of Personal Ties in International Climate Science Production (with Lorenzo Crippa).
+
+- Climate Risks and Migration Intentions (with Aykut Ozturk and Sergi Pardos-Prado).
 
 - Compliance with International Environmental Regulation: Installation-level Evidence from European Carbon Markets.
