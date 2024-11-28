@@ -45,8 +45,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:patrick.bayer@glasgow.ac.uk # For a direct email link, use "mailto:test@example.org".
-- icon: bluesky-square
-  icon_pack: fab
+- icon: twitter
+  icon_pack: fa
   link: https://bsky.app/profile/patrickbayer.bsky.social
 - icon: google-scholar
   icon_pack: ai
